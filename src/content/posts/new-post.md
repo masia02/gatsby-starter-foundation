@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: イーサリアム DAppsの開始方法
-slug: new-post
+slug: ethereum-dapps
 date: 2018-05-24 14:53
 description: イーサリアム
 featuredImage: /assets/rectangle_large_type_2_4cf225bec491fae50f1a530ec63399ed.webp
