@@ -4,7 +4,7 @@ title: イーサリアム DAppsの開始方法
 slug: new-post
 date: 2018-05-24 14:53
 description: イーサリアム
-featuredImage: /assets/a30c8249-b87a-4323-b4ac-17716127f296.webp
+featuredImage: /assets/rectangle_large_type_2_4cf225bec491fae50f1a530ec63399ed.webp
 ---
 # Web3.0 DAppsとは
 
