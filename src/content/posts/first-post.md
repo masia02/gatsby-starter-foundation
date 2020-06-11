@@ -1,53 +1,73 @@
 ---
 template: blog-post
-title: Book Shelf
-slug: book-shelf
-date: 2019-07-10T00:00:00.000Z
+title: ポストApp Store/Google Play、モバイルアプリの次に来るもの Appfav
+slug: appfav
+date: 2019-08-27 09:00
 description: sdasd
-featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
+featuredImage: /assets/68971786e9b441039ed2414c6b56c819_13_960.jpg
 ---
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+現在モバイルアプリ配信市場は、App StoreとGoogle Playにほぼ独占されています。
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
+アプリ開発者はAppleとGoogleの言いなりです。Apple, Googleともに配信されるコンテンツに対して審査を行っています。最低限詐欺的なアプリなどは配信しないようにしなければならないが、ギャンブル性のあるアプリに対してなど年々厳しくなっています。
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+また、支払手段を握られコストがかかります。\
+料金の支払いはアプリの購入とアプリ内課金のみである必要があり、それ以外の支払い経路があってはいけません。なお、アプリ内課金のうち30%がAppleの収益になります。
 
-## It doesn't look so shiny to me.
+それに対して、ブラウザーで利用できるゲームやアプリはApp StoreやGoogle Playを迂回し、PCやスマホへの配信をするため縛りがありません。
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+# ダウンロード＆インストール不要なブラウザで利用できるアプリ
 
-![]()
+下記のような技術でWebアプリを利用することで、まだ比較的若いテクノロジーもあり普及や対応にしばらくかかるかもしれませんが、ネイティブアプリを必要としない未来は近いと思います。
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
+#### プログレッシブウェブアプリ（PWA）
 
-### Daylight and everything.
+PWAは、デスクトップとモバイルの両方でインストール可能なアプリと同等の体験を提供し、ウェブ上で直接構築・配信される高速で信頼性の高いウェブアプリです。何より重要なのは、それらがどのブラウザでも動作するウェブアプリであることです。
 
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
+#### 5G
 
-* Fry! Stay back! He's too powerful!
-* Look, last night was a mistake.
-* Please, Don-Bot… look into your hard drive, and open your mercy file!
+5Gが利用できるようになると、高速大容量・低遅延・多数端末接続ができるようになります。ウェブアプリがより使いやすい環境になります。5Gに向けてGoogleのクラウドゲームサービス「Stadia」などいろんなサービスが始まるでしょう。
 
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
+[https://note.com/masia02/n/n24dfb90085e7](https://note.com/masia02/n/n24dfb90085e7 "ブラウザゲームの進化がスゴイ！")
 
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
+ [https://appfav.net/webapps/item.php?appId=257](https://appfav.net/webapps/item.php?appId=257 " Paperspace - 仮想デスクトップ")
 
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
+#### WebAssemblyによる高速化・バイナリ化
 
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
+ブラウザからアセンブリ（機械語）を実行できるようにする技術\
+高速化手段、あるいはJavaScriptの処理系にできないことをするといった目的で提案されました。バイナリーデータとして配信されるので、丸ごとコピーされて送金先だけ変えられて他の誰かに盗用される心配は減ります。
 
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+#### WebVR/AR・XR
 
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
+こちらも登場して数年ですが、徐々に浸透しているブラウザを使ってアクセスするAR/VRの規格です。さらにVR・AR・MRにも対応する規格がXRです。
 
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
+[https://appfav.net/webapps/item.php?appId=248](https://appfav.net/webapps/item.php?appId=248 "8th Wall | Augmented Reality")
 
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
+#### DApps（自律分散型アプリケーション）
 
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
+ブロックチェーンを利用することで非中央集権なアプリを実現する技術。主にMetamaskなどをブラウザに機能拡張するか、DAppsブラウザアプリで利用やブロックチェーンゲームのアプリにウォレット機能が付いたものもあるが、Portisなどのように通常のブラウザでWebサービスにログインして使うように利用できるコントラクトウォレットの仕組みを使うことをオススメします。
 
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
+[https://alis.to/masia02/articles/K8DQmM6N87Z7](https://alis.to/masia02/articles/K8DQmM6N87Z7 "Ethereum DAppsはコントラクトウォレットでログインしよう！")
 
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+### アプリが見つけにくい問題の対策
+
+Webアプリ、ブラウザで利用するブロックチェーンアプリなどをユーザーに見つけてもらうため、[Appfav.net](https://appfav.net/)を作成しました。
+
+無料会員登録がSNS認証で簡単にできます。そしてログイン後、マイアプリページを利用できます。アプリ紹介ページで、よく利用するアプリの「マイアプリに追加」ボタンをクリックすることで、マイアプリページに追加できます。
+
+PC、タブレット、スマホ、VRヘッドセットなどブラウザが利用できるあらゆるデバイスでAppfavにアクセスすることで共有して利用可能です。**ホーム画面に追加**や**ブックマーク**してご利用ください。
+
+アプリ登録は、念の為最低限確認していますが、基本的にAppfavの主旨に基づいて申請いただければ掲載するようにしております。アプリストアは非中央集権化するべきと考えており、将来的にはDApps化したいと思っています。
+
+### おわりに
+
+今後、ブラウザだけ利用できるデバイスがあれば、あらゆるアプリを利用できるようになるでしょう。デバイス自体に保存するデータは少なくてすみます。バッテリーの小型化・大容量化もさらに進むでしょうし、ブラウザが起動する使いやすいメガネが早くできてほしい。
+
+また企業でブロックチェーンを利用したサービスが増えてきており、安価で安全に利用できるなら良いことですが、最終的にはみんなで管理するパプリックなサービスが残るでしょう。GAFAのサービスがDAppsに置き換わるさまを早く見たいと筆者は願ってAppfavを運用しています。
+
+Appfavは後々、非中央集権化したいと思っています。いっしょに作ってくれるブロックチェーンエンジニアの方がいましたらご連絡ください。
+
+**[Appfav Twitterをフォローする](https://twitter.com/appfav_net)**
+
+**[Appfav Line公式アカウントをフォローする](https://lin.ee/ewel5Dk)**
+
+**[Appfav discordをフォローする](https://discord.gg/2N5Nzc)**
