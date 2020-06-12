@@ -7,7 +7,7 @@ Web全般の仕事をして2015年[\#デジタル資産](https://twitter.com/has
 \
 [https://appfav.net](https://appfav.net/)運営[\#SEO](https://twitter.com/hashtag/SEO)[\#アフィリエイト](https://twitter.com/hashtag/%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88)で藻掻きつつ[\#web3](https://twitter.com/hashtag/web3)[\#XR](https://twitter.com/hashtag/XR)[\#AI](https://twitter.com/hashtag/AI)など情報収集 人柱 5G IOTからチャンスを模索
 
-![Toys](/assets/mgwnfd8tadoh.jpg "Toys")
+![masia02.eth](/assets/mgwnfd8tadoh.jpg "masia02.eth")
 
 私が日々思うつぶやきもフォローしてくれる方は、
 
