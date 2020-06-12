@@ -202,7 +202,8 @@ Braveブラウザ自体もOSSですし、Brave TogerherもOSSのJitsiを使い�
 
 OSSをブロックチェーンアプリにするこのような事例は今後増えるのではないかと思います。
 
-<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://meet.jit.si/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="images/jitsilogo.png?v=1" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Jitsi Meet</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Join a WebRTC video conference powered by the Jitsi Videobridge</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
+[**Jitsi Meet**\
+Join a WebRTC video conference powered by the Jitsi Videobridge](https://meet.jit.si/)
 
 ちなみに暗号化ビデオチャットはまだ 1to1 のみです。
 
