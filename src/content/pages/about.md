@@ -11,75 +11,68 @@ Web全般を
 
 私が日々思うつぶやきもフォローしてくれる方は、
 
-### masia02 Twitterをフォローする
-
-<https://twitter.com/masia02>\
+### **[masia02 Twitterをフォローする](https://twitter.com/masia02)**\
 \
 記事を読みたい方は、
 
-### CipherWeb Line公式アカウントをフォローする
+### [CipherWeb Line公式アカウントをフォローする](https://lin.ee/C11BGoW)
 
-<https://lin.ee/C11BGoW>
 
-### CipherWebサークル
 
-<https://note.com/masia02/circle>
+### [CipherWebサークル](https://note.com/masia02/circle)
 
-### Follow Me
 
-<https://followme.app/users/masia02>
 
-### Alis
+### [Alis](https://alis.to/users/masia02)
 
-<https://alis.to/users/masia02>
 
-### Spotlignt
 
-<https://spotlight.soy/mypage?user_id=122>
+### [Spotlignt](https://spotlight.soy/mypage?user_id=122)
 
-### Brain
 
-<https://brain-market.com/u/masia02>
 
-### note
+### [Brain](https://brain-market.com/u/masia02)
 
-<https://note.com/masia02>
 
-### peakd
 
-<https://peakd.com/@masia02>
+### [note](https://note.com/masia02)
+
+
+
+### [peakd](https://peakd.com/@masia02)
+
+
 
 ### プロフィールページ
 
-<https://masia02.eth.link/>\
-<https://masia02.runkodapps.com/>\
-<https://3box.io/0x4D859268820330cCBF721Dc263C3F516F4971B3B/wall>\
-<https://onename.com/masia02>\
+[masia02.eth](http://masia02.eth.link/)
+
+[3box](https://3box.io/0x4D859268820330cCBF721Dc263C3F516F4971B3B/wall)
+
+[onename](https://onename.com/masia02)\
 \
-[masia02.eth](https://etherscan.io/address/masia02.eth "See this address on the blockchain explorer")\
-[masia02.auth.eth](https://etherscan.io/address/masia02.auth.eth "See this address on the blockchain explorer")\
-[0x5fA20a8ed62A8d3D083F85CFfdd88d57904f7ea6](https://etherscan.io/address/0x5fA20a8ed62A8d3D083F85CFfdd88d57904f7ea6)
+[masia02.auth.eth](https://etherscan.io/address/masia02.auth.eth "See this address on the blockchain explorer")
 
-### facebook
 
-<https://www.facebook.com/masia02>
 
-### YouTube
+### [facebook](https://www.facebook.com/masia02)
 
-<https://www.youtube.com/user/masia02>
 
-### Tiktok
 
-<https://www.tiktok.com/@masia02>
+### [YouTube](https://www.youtube.com/user/masia02)
 
-### Instagram
 
-<https://www.instagram.com/masia02/>
 
-### Pinterest
+### [Tiktok](https://www.tiktok.com/@masia02)
 
-<https://www.pinterest.jp/masia02/>
 
-### Linkedin
 
-<https://www.linkedin.com/in/masia02/>
+### [Instagram](https://www.instagram.com/masia02/)
+
+
+
+### [Pinterest](https://www.pinterest.jp/masia02/)
+
+[](https://www.pinterest.jp/masia02/)
+
+### [Linkedin](https://www.linkedin.com/in/masia02/)
