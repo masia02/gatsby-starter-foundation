@@ -12,8 +12,6 @@ featuredImage: /assets/rectangle_large_type_2_4cf225bec491fae50f1a530ec63399ed.w
 
 ### イーサリアムのDAppsを使ってみよう！
 
-
-
 ### デスクトップ
 
 #### **１．Metamaskをインストールする**
@@ -23,8 +21,6 @@ MetaMaskアドオンをBraveブラウザーまたは、Chrome、Firefox、Opera�
 [https://metamask.io/](https://metamask.io/ "https\://metamask.io/")
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Gf_kRE4MJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 #### **２．ETHを用意する**
 
@@ -45,7 +41,7 @@ DAppsブラウザでDAppsのURLにアクセスして利用開始できます。
 
 まだ発展途上中ですが、まずはゲームなどでお試しください！
 
-[https://appfav.net/ranking/?pl=30](https://appfav.net/ranking/?pl=30 "https\://appfav.net/ranking/?pl=30")
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://appfav.net/ranking/?pl=30" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:appfav.net/img/ipad_iphone600x200.jpg" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Appfav</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Ethereum Appfavランキング(独自集計)！ブラウザで利用できるアプリストア</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 ### **モバイル**
 
