@@ -1,51 +1,217 @@
 ---
-title: Typography
 template: blog-post
-date: 2020-05-13 09:19
-slug: typography
-featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
-description: metaphorically make a deal with the devil
+title: 危ない!?ブロックチェーンゲーム
+slug: blockchaingame
+date: 2020-02-14 09:19
+description: タイトルは釣りですが、ブロックチェーンゲームやアプリの旧式ウォレットについて警告します。
+featuredImage: /assets/a4221028753051b9acd6dad23275e6c7.png
 ---
-\# When will that be?\
-\
-I haven't felt much of anything since my guinea pig died. Oh, but you can. But you may have to metaphorically make a deal with the devil. And by "devil", I mean Robot Devil. And by "metaphorically", I mean get your coat.\
-\
-We'll go deliver this crate like professionals, and then we'll go home. Leela, are you alright? \_\_You got wanged on the head.\_\_ \*Dear God, they'll be killed on our doorstep!\* And there's no trash pickup until January 3rd.\
-\
-## Bender, you risked your life to save me!\
-\
-Fry! Stay back! He's too powerful! That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! You, minion. Lift my arm. AFTER HIM! When will that be?\
-\
-1. All I want is to be a monkey of moderate intelligence who wears a suit… that's why I'm transferring to business school!\
-2. Leela, Bender, we're going grave robbing.\
-3. A true inspiration for the children.\
-\
-### Would you censor the Venus de Venus just because you can see her spewers?\
-\
-And then the battle's not so bad? I don't 'need' to drink. I can quit anytime I want! Why would a robot need to drink? A true inspiration for the children. You can crush me but you can't crush my spirit!\
-\
-* Is today's hectic lifestyle making you tense and impatient?\
-* Ow, my spirit!\
-* This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!\
-\
-You lived before you met me?! With a warning label this big, you know they gotta be fun! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.\
-\
-It's a T. It goes "tuh". Oh, I think we should just stay friends. Yes. You gave me a dollar and some candy. Tell her you just want to talk. It has nothing to do with mating. Fry! Stay back! He's too powerful!\
-\
-We're also Santa Claus! I guess because my parents keep telling me to be more ladylike. As though! I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money.\
-\
-Good man. Nixon's pro-war and pro-family. Yes. You gave me a dollar and some candy. Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! That's the ONLY thing about being a slave.\
-\
-Fry, we have a crate to deliver. And remember, don't do anything that affects anything, unless it turns out you were supposed to, in which case, for the love of God, don't not do it! I never loved you.\
-\
-Fry! Stay back! He's too powerful! One hundred dollars. Whoa a real live robot; or is that some kind of cheesy New Year's costume? I haven't felt much of anything since my guinea pig died. WINDMILLS DO NOT WORK THAT WAY! GOOD NIGHT!\
-\
-Okay, I like a challenge. Then we'll go with that data file! I didn't ask for a completely reasonable excuse! I asked you to get busy! Is the Space Pope reptilian!? Yes, I saw. You were doing well, until everyone died.\
-\
-Ask her how her day was. Do a flip! In your time, yes, but nowadays shut up! Besides, these are adult stemcells, harvested from perfectly healthy adults whom I killed for their stemcells. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?\
-\
-I'm just glad my fat, ugly mama isn't alive to see this day. I am Singing Wind, Chief of the Martians. Interesting. No, wait, the other thing: tedious. Hey, you add a one and two zeros to that or we walk!\
-\
-Dear God, they'll be killed on our doorstep! And there's no trash pickup until January 3rd. Why yes! Thanks for noticing. You don't know how to do any of those. Well I'da done better, but it's plum hard pleading a case while awaiting trial for that there incompetence.\
-\
-Who's brave enough to fly into something we all keep calling a death sphere? Yep, I remember. They came in last at the Olympics, then retired to promote alcoholic beverages! It doesn't look so shiny to me.
+私はブロックチェーンの技術に魅了され、ブロックチェーンアプリやゲームに期待し追いかけ続けている男です。ブロックチェーン自体は危なくないのは知っています。タイトルは釣りですが、ブロックチェーンゲームやアプリのウォレットについて警告します。
+
+## ブロックチェーンについて
+
+ブロックチェーンは、第2のインターネットと呼ばれるくらいインターネットを次のレイヤーにアップデートする画期的な技術です。
+
+[ビットコインバブルとITバブルとの共通点を分析した](https://kusacurrency.com/goodbuy/bitcoin-dotcom/ "ビットコインバブルとITバブルとの共通点を分析した")
+
+今年の暮れまでにはビットコインが高値更新しそうだな(妄想)と思いますが、キャッシュレスも中途半端な世の中でいつ一般に浸透するのかよめないのでわかりませんｗ
+
+そして私は、早くからブロックチェーンゲームやアプリの新作が出るたびに試していました。
+
+[ブロックチェーン Appfavランキング](https://note.com/masia02/n/n88cafcf7d581 "ブロックチェーン Appfavランキング")
+
+### ブロックチェーンゲームとは
+
+みなさんはブロックチェーンゲームはご存じでしょうか？\
+最近では日本の企業でもブロックチェーンゲームのリリースが増えています。初心者でも普通のゲームと遜色なく、ウォレットアドレスが無くても始められるソシャゲレベルのゲームも多くなっており、日本の企業も頑張ってますね！応援しています。
+
+[ブロックチェーンゲームとは【仕組みと従来のゲームとの違いを解説】](https://blockchain.altema.jp/blockchaingame)
+
+ブロックチェーンゲームは頑張ってプレイした成果を換金できるところが魅力でしょう。ゲームで稼いで生きていけるかもしれない。
+
+[あの店長も参入ですねｗ](https://www.youtube.com/watch?time_continue=35&v=SBvU-IWfmUY)
+
+ブロックチェーンゲームはイーサリアムが先行して多いので、これから始めてみたい方は以前書いた記事「イーサリアム DAppsの開始方法」があるのでこちらをどうぞ。まずはウォレットを用意します。
+
+[イーサリアム DAppsの開始方法](https://alis.to/masia02/articles/3VjLokR48xdD)
+
+ウォレット機能付きのブラウザやアプリは増え続けています。\
+日本製のウォレットだと、torkenPocketやGO!WALLETですかね。\
+しかし**これらのウォレットはオススメしたくありません。**
+
+その他、イーサリアム以外でもEOSやTronなど派生していますが、似たようなものです。私が危ないと思う部分も共通して言えるものが多いです。
+
+### **ブロックチェーンアプリの懸念点**
+
+ブロックチェーンアプリ(DApps)は、非中央集権の分散型アプリケーションと言われ、中央管理者なしで運営・管理できると言ってもゲームやアプリには制作者がおり、少なくとも最初のうちは中央管理者が引っ張っていく必要があります。ゲームのキャラクターやアイテムなどのアセットは、たしかに無くなることはないですが、ゲームが開発中止になるとゲームアセットの価値が無いに等しくなることはあります。まだまだ試行錯誤は必要でしょう。
+
+**あらゆるゲームのアセットや、使われなくなったアセットも利用できるバーコードバトラーみたいなゲームが作られたらいいなと思います。**
+
+分散型は、銀行を殺す、国に囚われないなどの思想に感銘を受け興味を持ち人柱的に試してきました。しかし最近は法で縛られ取り込まれてる感がして残念です。
+
+将来的には DAO（分散型自立組織）経営が自動化された組織が誕生し、市場参加者が仲介企業を介さずに他の参加者と連携できる仕組みが変える世界を私はみたい。
+
+## **私は2度、仮想通貨を盗まれました。**
+
+詳しくはこの記事に書いているのでご覧ください。
+
+**[Ethereum DAppsの財布は、Portisにすべき理由！](https://alis.to/masia02/articles/anLy0owzErY0)**
+
+ゲームやアプリを試す用分のお金でしたが、ショックですよ返ってきませんし…。だからブロックチェーンゲームやアプリを利用している方、これから利用する方に読んでほしい。上記にもどうすべきか書いていますが、少し古くなってるし再編集して何度でも言います。
+
+でも良い方向には向かっているようですね！
+
+> 将来的にはEOAは無くなり、Ethereumのアカウントは全てコントラクトアカウントだけになることが開発方針として決まっています。
+
+[コントラクトウォレットって何なの？](https://alis.to/CryptoChick/articles/KmQ6BBy9pv57)
+
+\--- このラインより上のエリアが無料で表示されます。 ---
+
+### 秘密鍵・復元パスフレーズって何？大丈夫？
+
+ウォレットにはとても大事な秘密鍵や復元パスフレーズがあります。
+
+秘密鍵はビットコインを送金する際に必要になる暗号鍵の事です。この秘密鍵があれば実際にビットコイン保有者本人ではなくてもビットコインの送金ができてしまいます。
+
+復元パスフレーズは秘密鍵とほぼ同様だと考えていいでしょう。\
+復元パスフレーズさえあれば復元パスフレーズ対応のウォレットに入力するだけでウォレットを再現できるからです。
+
+これらをなくしたら二度と復元できませんし、盗まれたら中のお金や資産を知らないウォレットアドレスに送信されてしまいます。
+
+この復元フレーズは12〜24個の単語で、適当にフレーズ入れて復元したら盗めたり、盗まれちゃったりするかも？と思う人もいるかと思います。私もそうでしたが、**復元パスフレーズの解読には、天文学的数字で○億年では足りないほど解読に時間を要する**そうで、総当たりで突破される心配はなさそうです。また量子コンピュータなら解読されちゃうって話題もありましたが、対策は進んでいます。
+
+[リカバリーフレーズの総当たりハッキング MetaMaskやハードウェアウォレットの12/24語は解読されるか？](https://yokonoji.work/44-recovery-phrase)
+
+なので、**秘密鍵や復元パスフレーズ自体には問題ありません。**
+
+管理方法は自己責任でお願いしますが、紙に書いて金庫に入れて置いたり、オフラインで管理することをお勧めします。もしくは、
+
+エンドツーエンド暗号化されたクラウドストレージで、\
+・パスワードは、大文字・小文字・英数字・記号をランダムに利用して長いパスワードを設定する。(長ければ長いほど良い)\
+・２段階認証は必ず設定する。\
+登録したメールアドレスも長いパスワードで2段階認証している前提です。\
+このような環境なら、そこにしっかり保存するのもありだとは思います。これならもし家が火事になってパスワードのメモを紛失したとしても、スマホやパソコンさえあれば復元できるから。\
+無料なら[X Cloud](https://appfav.net/webapps/item.php?appId=541)が良さそう。有料なら[pCloud Crypto](https://appfav.net/webapps/item.php?appId=56)ですかね。
+
+尚、メールアドレスやログイン情報のパスワードの管理は、\
+パスワード管理ソフトの「[Bitwarden](https://appfav.net/webapps/item.php?appId=55)」の利用をおすすめします。
+
+**[ログインはパスワード管理ソフトで自動入力が便利すぎ！パスワード登録も簡単！個人利用は無料](https://appfav.net/blog/2020/01/07/%e3%83%ad%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%af%e3%83%91%e3%82%b9%e3%83%af%e3%83%bc%e3%83%89%e7%ae%a1%e7%90%86%e3%82%bd%e3%83%95%e3%83%88%e3%81%a7%e8%87%aa%e5%8b%95%e5%85%a5%e5%8a%9b%e3%81%8c%e4%be%bf/)**
+
+初めてログインした時、Bitwardenに保存するとログインページのURLも保存します。その後ログインページを開くとBitwardenでログイン情報を入力するボタンが表示されます。通常ログインページは、大きくリニューアルでもされない限りURLは基本変わりません。
+
+最近のフィッシング詐欺はアカウントが侵害された可能性があるなどとメールで誘導されるものが多いが、ログイン時にBitwardenでログイン情報を入力するボタンが表示されない場合は、おかしいと思ったほうがいいです。
+
+これでハッキングや解読されることは無いに等しいはずです。\
+では**なぜ盗まれたのか。**
+
+## 問題はフィッシング詐欺
+
+**1度目はCounterParty**というビットコインのブロックチェーン上のプラットフォームがあり、そのWebウォレットを試すため復元パスフレーズを入力したらフィッシング詐欺サイトだったようで盗まれました。
+
+[Counterwallet](https://counterwallet.coindaddy.io/)
+
+上のサイトを見てください。復元パスフレーズでログインするなんて今考えたら狙われるに決まっていますね。
+
+対策として、むやみにググらずに信頼できるサイトからのリンクをブックマークしてそこからアクセスするようにしようと考えました。
+
+とはいえ、フィッシング詐欺が悪いのですが、復元パスフレーズでログインするサービス自体が問題だと思います。
+
+**2度目はイーサリアムのウォレットMetamask**
+
+新しいアプリを使う時、使っているウォレットの秘密鍵もしくは復元パスフレーズを入力してインポートすると、１つのウォレットアドレスを複数のアプリで復元することで共有して利用することができます。
+
+これは大変便利ですが、秘密鍵や復元パスフレーズを入力することは自分のウォレットアドレスの権限を盗まれるリスクがとても高く危険な行為です。
+
+**2回とも復元パスフレーズを入力した後に盗まれました。**\
+知らないウォレットアドレスにゴッソリ送信されていましたが、私がやっていないと証明することができません。またその知らないウォレットアドレスは自分のものではないと証明することもできません。
+
+フィッシング詐欺を撲滅させたいが無理でしょう…\
+下記リンクの問題に答えてみてください。フィッシング詐欺クイズと思って入念に見れば気付けるかもしれませんが、普段から不意にやられたら気付けると思いますか？
+
+**[フィッシング詐欺 見破れますか？](https://phishingquiz.withgoogle.com/?hl=ja)**
+
+### 盗まれないためには
+
+**秘密鍵や復元パスフレーズはどこにも入力しない**\
+ウォレットのインポートはせずに、新しいウォレットを作成してそこへ必要なお金やアセットをこれまで使っていたウォレットからSendして利用する。
+
+※もしスマホやパソコンをなくしたりして、ウォレットを復元するしかない場合に限りウォレットをインポートして復元しましょう。こういう時のためだけに、ウォレットのインポート機能は必要です。
+
+最近ではブロックチェーンゲームのアプリ版としてWallet機能付きでリリースされることが多くなりました。初めてブロックチェーンゲームをする人には良い策で、新しいユーザーを獲得できると思いますが、新しいブロックチェーンゲームをするたびに新しいウォレットアドレスを作成するのは管理が大変で非効率です。
+
+必要なお金やアセットを一つ一つ送金手数料を払って送らなくてはいけない。盗まれないためには仕方ない。
+
+これらを解決する方法はないものかと自分なりに考えていましたが、
+
+最近ではOperaやQurageはスマホアプリをベースにPCブラウザではconnectして利用する形で惜しいんですけどね。
+
+**[Portis](https://portis.io/)**を見つけてコレだ！と高揚しました。
+
+## これまでのWebサービス同様に、メールアドレスとパスワードそして２段階認証でログインするようにブロックチェーンアプリにウォレットを接続する仕組み
+
+Portisは、まずCreate an accountでメールアドレスとパスワードを登録してPortisアカウントを作成します。そしてWalletには、メールアドレスとパスワードでログインします。
+
+2段階認証が設定できるので必ず設定しましょう！\
+パスワードが危険にさらされたり盗まれたりした場合でも、２段階認証の30秒ごとに変化する6桁の 確認コード に守られる確率が高く、盗まれたかもと思ったらパスワードの変更も可能です。
+
+どんなデバイスやブラウザでもPortisアカウントのメールアドレスとパスワードと2段階認証でログインできます。\
+だから機種変更などどんな端末に代えても秘密鍵やパスフレーズで、ウォレットをインポートする必要はありません。
+
+パスワードを忘れた場合、Portisはセキュリティーを保つため保存しておらず、助けることができません。パスフレーズがわかれば新しいパスワードを設定して復元はできるので必ずメモして安全に保管しましょう。
+
+万が一Portisに問題が発生した場合でも秘密鍵やパスフレーズがあれば他のウォレットで復元できます。
+
+MetamaskやDAppsブラウザの方が、いろんなブロックチェーンゲームを次々にプレイする時などに１度ログインしていれば自動的に認識して利用できるが、Portisの場合ゲームごとにログインを求められ面倒かもしれない。しかしセキュリティーを考えると私はPortisを選びます。[Bitwarden](https://appfav.net/blog/2020/01/07/%e3%83%ad%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%af%e3%83%91%e3%82%b9%e3%83%af%e3%83%bc%e3%83%89%e7%ae%a1%e7%90%86%e3%82%bd%e3%83%95%e3%83%88%e3%81%a7%e8%87%aa%e5%8b%95%e5%85%a5%e5%8a%9b%e3%81%8c%e4%be%bf/)などのパスワードマネージャーを利用すれば、楽にログインできます。一般ユーザーでも使いやすい仕組みです。
+
+[OpenSea](https://opensea.io/wallet/install?referrer=https%253A%252F%252Fopensea.io%252Faccount%253F)は、[Portis](https://appfav.net/webapps/item.php?appId=20)や似たサービスの[Fortmatic](https://appfav.net/webapps/item.php?appId=814)・[Bitski](https://appfav.net/webapps/item.php?appId=815)・[Authereum](https://appfav.net/webapps/item.php?appId=828)にも対応しているので試してみて下さい。
+
+ただし、\
+・Fortmaticはアセットなどが管理しづらそう。\
+・Bitskiは使いやすそうだがまだBeta版で秘密鍵やパスフレーズの確認やインポート機能が見つからず不安。\
+・Portisはアプリとのconnectがなぜかうまく行かないことがあり不安定。\
+・Authereumはベータ版ソフトウェアです。大量のEhterを使用しないでください。\
+・[Torus](https://appfav.net/webapps/item.php?appId=829)Google、Facebookや他のOAuthログインは楽だけどFacebookパスワード漏洩とかあったしな。
+
+最近OperaやBraveブラウザ自体にもウォレット機能が付いたり、Metamaskがインストールされたブラウザだと機能がぶつかってうまくconnectできてない場合があるので使わないウォレットはオフにした方が良さそうです。
+
+そしてこれらに対応したアプリがまだ少なく使えないのがネックではあります。それでもPortisは対応アプリを頑張って増やしているようで好感が持てます。
+
+[Portisを搭載アプリ](https://apps.portis.io/)
+
+早くこのような仕組みでスムーズにconnectして安全に利用できるようになり、いろんなブロックチェーンアプリで採用されることを願います。
+
+**DApps開発者の方々、Web3Connect対応を宜しくお願いします！**
+
+[Web3Connect](https://github.com/web3connect/web3connect)と統合する\
+[Web3Connect](https://github.com/web3connect/web3connect)は、開発者がシンプルなカスタマイズ可能な構成でアプリに複数のプロバイダーのサポートを追加できるようにする使いやすいライブラリです。
+
+## まとめ
+
+インターネットでお金や資産を持つことができるようになったことで、\
+これまで以上にセキュリティーに気を付けなければいけません。
+
+仮想通貨を高額保存する場合は、ハードウェアウォレットに入れるなりして、しっかりパスワードを保管して寝かしておきましょう。
+
+ブロックチェーンゲームやアプリを利用するときは、Portisのような仕組みを利用したいところですが対応していない場合、盗まれないために守ることは、**秘密鍵や復元パスフレーズをどこにも入力しない**ことです。
+
+スマホやパソコンを紛失してウォレットを復元するしかない場合に限り、ウォレットをインポートして復元しましょう。\
+さらに念には念を入れるならウォレットのインポートで入力した秘密鍵か復元パスフレーズが盗まれていた場合に備えその後すぐ、別途新たにウォレットアドレスを作成して資産を送信し、その秘密鍵やパスフレーズはどこにも入力せずしっかり保管することを推奨します。
+
+これでブロックチェーンゲームは危なくないでしょう。
+
+### 【宣伝】
+
+### [Webアプリ・ブロックチェーンアプリ紹介まとめサイト](https://appfav.net/)
+
+これらの経験から私はブラウザで利用できるWebアプリやブロックチェーンアプリを紹介するWebサービスを作成しました。\
+あらゆるデバイスのブラウザで共通して利用でき、自分の好きなアプリに簡単にアクセスできるブックマーク機能付きです。\
+無料会員登録でログインしてマイアプリも試してみてください！\
+DApps化したいですが、まだ技術やスキルが追い付かないのでまずはこれをベースにできればと思います。
+
+[https://appfav.net/](https://appfav.net/ "https\://appfav.net/")
+
+将来的にアプリは AR・VR、AI、ブロックチェーンという技術もいいとこどりで当然のように組み込まれるようになり、Webアプリとネイティブアプリの分け方もなくなり一色淡にアプリやゲームとして扱われるようになると思うので、ネイティブアプリのみのものは基本掲載していません。
+
+[masia02 Twitterをフォローする](https://twitter.com/masia02)\
+[CipherWeb Line公式アカウントをフォローする](https://line.me/R/ti/p/%40zkz7445k)
