@@ -4,7 +4,7 @@ title: ポストApp Store/Google Play、モバイルアプリの次に来るも�
 slug: appfav
 date: 2019-08-27 09:00
 description: sdasd
-featuredImage: /assets/68971786e9b441039ed2414c6b56c819_13_960.jpg
+featuredImage: /assets/qmzrwmac1xxsuaf8kigngrdrnmtyrppoxofeylypmrm8o1.jpg
 ---
 現在モバイルアプリ配信市場は、App StoreとGoogle Playにほぼ独占されています。
 
