@@ -4,7 +4,7 @@ title: 危ない!?ブロックチェーンゲーム
 slug: blockchaingame
 date: 2020-02-14 09:19
 description: タイトルは釣りですが、ブロックチェーンゲームやアプリの旧式ウォレットについて警告します。
-featuredImage: /assets/a4221028753051b9acd6dad23275e6c7.png
+featuredImage: /assets/1_mtdyfkttwjavqeo5vdky9g.png
 ---
 私はブロックチェーンの技術に魅了され、ブロックチェーンアプリやゲームに期待し追いかけ続けている男です。ブロックチェーン自体は危なくないのは知っています。タイトルは釣りですが、ブロックチェーンゲームやアプリのウォレットについて警告します。
 
