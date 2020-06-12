@@ -68,8 +68,6 @@ Create Accountをクリックして、まずはアカウント作成をしてく
 
 ![](/assets/picture_pc_eeea9d459aebddc9aefc6690d998cf89.png)
 
-
-
 プロバイダの認証アプリの「管理」ボタンをクリックし、マスターパスワードを入力。表示されたQRコードを認証アプリでスキャンするとアプリ上に6桁の数字が表示されるので、それを入力して有効化は完了です。
 
 ※認証アプリの「Google認証システム」はデバイス間での共有がiPhoneアプリできないため、スマホを新しく機種変更した時などに2段階認証のデータが引き継げず再設定が必要になってしまいます。\
@@ -94,8 +92,6 @@ Create Accountをクリックして、まずはアカウント作成をしてく
 3. サイドメニュー内の「データをインポート」を選択すると、下記画面になります。
 
 ![](/assets/picture_pc_dd4c8d8bd117e5aa14b02e42438236ba.png)
-
-
 
 1. インポートするファイルの形式は「選択」で選べる形式で必要なデータをエクスポートしておいてください。
 2. インポートするファイルを選択\
@@ -187,4 +183,4 @@ SafariやChromeのブラウザごとのブックマーク機能も充実して�
 現状ネイティブアプリの方が使い勝手は良いですが、ダウンロードのハードルが高くWebアプリでも遜色のないものが作れるようになってきているので、まずWeb版をリリースし様子をみて、人気が出ればアプリ版も作成する流れの場合も多いようです。\
 まずWeb版を試して気に入ったアプリがあるならダウンロードして利用するのが良いでしょう。
 
-[https://appfav.net/about/](https://appfav.net/about/ "https\://appfav.net/about/")
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://appfav.net/about/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="../mypage/img/f4_point-get-mission_safari.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Appfav</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Appfavは、ブラウザで利用できるWebアプリやWEBサービス、ブロックチェーンアプリが見つかる！無料会員登録でマイアプリページ生成、ブックマークやホーム画面に追加して、アプリにすばやくアクセス！</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
