@@ -36,7 +36,6 @@ const Contact = ({data}) => {
       <div className="wrapper">
         <h1>{frontmatter.title}</h1>
         <div className="description" dangerouslySetInnerHTML={{ __html: html }} />
-<!--
         <form className="contact-form" action="/thanks" name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
           <input type="hidden" name="form-name" value="contact" />
           <p>
@@ -55,7 +54,6 @@ const Contact = ({data}) => {
             <button className="button" type="submit">Send Message <span className="icon -right"><RiSendPlane2Line/></span></button>
           </p>
         </form>
--->
       </div>
 
     </Layout>
