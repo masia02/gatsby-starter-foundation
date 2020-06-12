@@ -53,7 +53,7 @@ WWWのこの新しい時代がどのようにして生まれるかについて�
 
 空間ウェブはどのようにしてWeb3.0を定義しているか
 
-<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://wiredelta.com/how-the-spatial-web-is-defining-web-3-0/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:wiredelta.com/wp-content/uploads/2020/02/Wordpress-375-x-250@2x.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">How the Spatial Web is Defining Web 3.0 - Wiredelta</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">The World Wide Web (WWW) has come a long way since it was introduced in the late 1980s. It evolved and expanded its horizon to cover the entire planet that is labeled as today&amp;#8217;s future. With AI, Augmented and Virtual Reality moving at a faster and faster pace, WWW made a significant change of perspective \[&amp;hellip;]</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://wiredelta.com/how-the-spatial-web-is-defining-web-3-0/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:wiredelta.com/wp-content/uploads/2020/02/Wordpress-375-x-250@2x.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">How the Spatial Web is Defining Web 3.0 - Wiredelta</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">The World Wide Web (WWW) has come a long way since it was introduced in the late 1980s. It evolved and expanded its horizon to cover the entire planet that is labeled as today&amp;#8217;s future. With AI, Augmented and Virtual Reality moving at a faster and faster pace, WWW made a significant change of perspective \\[&amp;hellip;]</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 ### ソーシャルVRを体験してみよう
 
@@ -100,7 +100,7 @@ Webブラウザでも一応体験できますが、Oculus QuestやHolorens、Mag
 
 **補足：音声認識からDeepLで自動翻訳化**最近ではリアルタイムで音声認識しテキストで表示、さらに高性能の自動翻訳を表示することも可能になっており、ソーシャルVRで利用できれば全世界の人とコミュニケーションが可能になります。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">\[ビデオ会議をDeepLで自動翻訳化してみた]<a href="https://twitter.com/1heisuzuki?ref_src=twsrc%5Etfw">@1heisuzuki</a> さんがソースコードを公開されていた「音声認識からWebカメラ映像への字幕合成までをGoogle Chrome だけでやってくれるWebページをつくってみました！」にDeepLのAPIを接続し自動翻訳するものをTakramの <a href="https://twitter.com/kenfjy?ref_src=twsrc%5Etfw">@kenfjy</a> が作ってくれました。↓ <a href="https://t.co/XCluY7YjbQ">pic.twitter.com/XCluY7YjbQ</a></p>&mdash; 田川欣哉 / Takram (@_tagawa) <a href="https://twitter.com/_tagawa/status/1265115409847472128?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">\\[ビデオ会議をDeepLで自動翻訳化してみた]<a href="https://twitter.com/1heisuzuki?ref_src=twsrc%5Etfw">@1heisuzuki</a> さんがソースコードを公開されていた「音声認識からWebカメラ映像への字幕合成までをGoogle Chrome だけでやってくれるWebページをつくってみました！」にDeepLのAPIを接続し自動翻訳するものをTakramの <a href="https://twitter.com/kenfjy?ref_src=twsrc%5Etfw">@kenfjy</a> が作ってくれました。↓ <a href="https://t.co/XCluY7YjbQ">pic.twitter.com/XCluY7YjbQ</a></p>&mdash; 田川欣哉 / Takram (@_tagawa) <a href="https://twitter.com/_tagawa/status/1265115409847472128?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### ブロックチェーンを活用した分散型メタバース
 
@@ -109,13 +109,9 @@ Webブラウザでも一応体験できますが、Oculus QuestやHolorens、Mag
 
 絵画などの芸術作品や、土地、アバターの服やアクセサリーなどが、NFT（ノン・ファンジブル・トークン）になっています。それらのトークン(NFT)は、Decentralandの公式マーケットプレイスなどで、売買できます。
 
-
-
 VRデバイス対応はまだ少し先になるようですが、ゲームなども簡単なものからどんどん追加されてきており、いろんなイベントも開催されています。
 
 [Decentraland Events](https://events.decentraland.org/en/)
-
-
 
 ブロックチェーンを利用した仮想空間（メタバース）は他に、CryptovoxelsがありVR Chatと連携するものもあるようです。
 
@@ -123,8 +119,6 @@ VRデバイス対応はまだ少し先になるようですが、ゲームなど
 VR Chatのようにいろんなワールドをワープで繋ぐ世界と、どちらが支持されるか動向が楽しみです。
 
 そしてWebのインフラは、普通の人は知らぬ間にブロックチェーンに置き換わるでしょう。
-
-
 
 ### Webのインフラはブロックチェーンに置き換わる
 
@@ -240,3 +234,11 @@ WWWはメガネ型デバイスでアクセスする空間Webとして発展し�
 SafariやChromeのブラウザごとのブックマーク機能も充実してますが、別ブラウザで共有して使えないと不便なので[Appfav.net](https://appfav.net/)を作成しました。Webアプリをスマホのホーム画面のように使いやすくするサービスです。ほぼすべてのブラウザで利用できます。
 
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://appfav.net/about/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="../mypage/img/f4_point-get-mission_safari.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Appfav</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Appfavは、ブラウザで利用できるWebアプリやWEBサービス、ブロックチェーンアプリが見つかる！無料会員登録でマイアプリページ生成、ブックマークやホーム画面に追加して、アプリにすばやくアクセス！</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
+
+私が日々思うつぶやきもフォローしてくれる方は、\
+***[masia02 Twitterをフォローする](https://twitter.com/masia02)***
+
+記事を読みたい方は、\
+***[CipherWeb Line公式アカウントをフォローする](https://lin.ee/C11BGoW)***
+
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://note.com/masia02/circle" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:assets.st-note.com/production/uploads/images/26925495/bb1fe45e8dbc0961ea8a14f3bb96f486.png?format=jpeg&amp;amp;height=1006&amp;amp;quality=45&amp;amp;width=1920" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">CipherWebサークル｜masia02.eth (CipherWeb)</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Web3.0 Spatial Web メタバース AI ブロックチェーン IoTなど先端技術がいつ一般に浸透するかわからないが、知っておくと良いことやお得情報など情報共有するサークル。</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
