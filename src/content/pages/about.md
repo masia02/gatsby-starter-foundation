@@ -11,9 +11,8 @@ Web全般を
 
 私が日々思うつぶやきもフォローしてくれる方は、
 
-### **[masia02 Twitterをフォローする](https://twitter.com/masia02)**\
+### **[masia02 Twitterをフォローする](https://twitter.com/masia02)**
 
-\
 記事を読みたい方は、
 
 ### [CipherWeb Line公式アカウントをフォローする](https://lin.ee/C11BGoW)
