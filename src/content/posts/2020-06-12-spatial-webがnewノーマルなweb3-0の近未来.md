@@ -211,7 +211,7 @@ contact walletでこれまで同様にIDとパスワードでログインして�
 
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://alis.to/masia02/articles/K8DQmM6N87Z7" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:alis.to/d/api/articles_images/masia02/K8DQmM6N87Z7/ddcd6fd2-c53b-4381-aef6-9d6880bfb540.jpeg?d=1200x630" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Ethereum DAppsはコントラクトウォレットでログインしよう！ | ALIS</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">ALIS is Japan&amp;#x27;s First Social Media Using Blockchain Technology</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
-まとめ
+### まとめ
 
 WWWはメガネ型デバイスでアクセスする空間Webとして発展し、インフラはブロックチェーン技術でサーバーを持たなくてよくなる時代に。
 
