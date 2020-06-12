@@ -53,7 +53,7 @@ WWWのこの新しい時代がどのようにして生まれるかについて�
 
 空間ウェブはどのようにしてWeb3.0を定義しているか
 
-<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://wiredelta.com/how-the-spatial-web-is-defining-web-3-0/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:wiredelta.com/wp-content/uploads/2020/02/Wordpress-375-x-250@2x.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">How the Spatial Web is Defining Web 3.0 - Wiredelta</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">The World Wide Web (WWW) has come a long way since it was introduced in the late 1980s. It evolved and expanded its horizon to cover the entire planet that is labeled as today&amp;#8217;s future. With AI, Augmented and Virtual Reality moving at a faster and faster pace, WWW made a significant change of perspective \\\\[&amp;hellip;]</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://wiredelta.com/how-the-spatial-web-is-defining-web-3-0/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:wiredelta.com/wp-content/uploads/2020/02/Wordpress-375-x-250@2x.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">How the Spatial Web is Defining Web 3.0 - Wiredelta</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">The World Wide Web (WWW) has come a long way since it was introduced in the late 1980s. It evolved and expanded its horizon to cover the entire planet that is labeled as today&amp;#8217;s future. With AI, Augmented and Virtual Reality moving at a faster and faster pace, WWW made a significant change of perspective \\\\\[&amp;hellip;]</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 ### ソーシャルVRを体験してみよう
 
@@ -64,8 +64,6 @@ WWWのこの新しい時代がどのようにして生まれるかについて�
 VRデバイスヘッドセットがなくてもブラウザでお手軽に体験できます。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5QnOsyyebEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 **Spatial**
 
@@ -148,10 +146,8 @@ Ethereum Name Serviceは、Ethereumブロックチェーンに基づく分散型
 
 **HTTPの代替**
 
-**IPFS（分散型ファイルシステム）**\
+**[IPFS（分散型ファイルシステム）](https://ipfs.io/)**\
 P2Pネットワーク上で動作するハイパーメディアプロトコル
-
-<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://ipfs.io/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:ipfs.io/images/ipfs-logo.svg" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">IPFS Powers the Distributed Web</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">The InterPlanetary File System is a peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 ### **ストレージの代替**
 
@@ -184,7 +180,7 @@ RNDRは集中型GPUレンダリングクラウドよりも優れたスケール�
 下記、ふーさんの記事がとても勉強になりました。
 
 > **[RNDR Network とゆうヤバイプロジェクト](https://steemit.com/japanese/@fusan/rndr-network)**[](https://steemit.com/japanese/@fusan/rndr-network)\
-> **[RNDR networkの続報、ヤバス！](https://steemit.com/japanese/@fusan/rndr-naetwork-puygxfyj)[](https://steemit.com/japanese/@fusan/rndr-naetwork-puygxfyj)**\
+> **[RNDR networkの続報、ヤバス！](https://steemit.com/japanese/@fusan/rndr-naetwork-puygxfyj)**[](https://steemit.com/japanese/@fusan/rndr-naetwork-puygxfyj)\
 > **[RNDR Networkの続報その２](https://steemit.com/japanese/@fusan/6r4ztn-rndr-network)**\
 > [](https://steemit.com/japanese/@fusan/6r4ztn-rndr-network)\
 > **ソフトウェアに競争優位性を持っていればサーバーを持たなくてよくなる時代。**\
@@ -213,8 +209,6 @@ Join a WebRTC video conference powered by the Jitsi Videobridge](https://meet.ji
 
 contact walletでこれまで同様にIDとパスワードでログインして使えます。
 
-[**Ethereum DAppsはコントラクトウォレットでログインしよう！ | ALIS***ALIS is Japan's First Social Media Using Blockchain Technologalis.to*](https://alis.to/masia02/articles/K8DQmM6N87Z7)
-
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://alis.to/masia02/articles/K8DQmM6N87Z7" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:alis.to/d/api/articles_images/masia02/K8DQmM6N87Z7/ddcd6fd2-c53b-4381-aef6-9d6880bfb540.jpeg?d=1200x630" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Ethereum DAppsはコントラクトウォレットでログインしよう！ | ALIS</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">ALIS is Japan&amp;#x27;s First Social Media Using Blockchain Technology</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 まとめ
@@ -230,8 +224,6 @@ WWWはメガネ型デバイスでアクセスする空間Webとして発展し�
 **AppfavでWebアプリやブロックチェーンアプリにいろいろアクセスしてみよう！**
 
 SafariやChromeのブラウザごとのブックマーク機能も充実してますが、別ブラウザで共有して使えないと不便なので[Appfav.net](https://appfav.net/)を作成しました。Webアプリをスマホのホーム画面のように使いやすくするサービスです。ほぼすべてのブラウザで利用できます。
-
-
 
 私が日々思うつぶやきもフォローしてくれる方は、\
 ***[masia02 Twitterをフォローする](https://twitter.com/masia02)***
