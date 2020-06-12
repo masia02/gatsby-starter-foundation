@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Spatial WebがNewノーマルなWeb3.0の近未来
-slug: spatial-web3
+slug: spatial-web
 date: 2020-06-12 22:49
 description: ブロックチェーンは皆で使ってこそ信用度が増す。企業もローコストで落ちないインフラにメリットがある。ビットコイン同様先行者有利や貢献による報酬などもある。OSS+ブロックチェーンは理想だがね。
 featuredImage: /assets/rectangle_large_type_2_1a6c39a0774acc91b7f527f8ea07f515.webp
