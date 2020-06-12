@@ -9,4 +9,4 @@ cta:
   ctaLink: /about
 ---
 **I am [masia02.eth](https://masia02.eth.link/)**, Masamichi Takano [CipherWeb LLC](https://www.cipher-web.com/) Founder\
-My Site : [Appfav](https://appfav.net/) , [note](https://note.com/masia02) , [ALIS](https://alis.to/users/masia02) , [Spotlignt](https://spotlight.soy/mypage?user_id=122).
+My Site : [Appfav](https://appfav.net/) , [note](https://note.com/masia02/circle) , [ALIS](https://alis.to/users/masia02) , [Spotlignt](https://spotlight.soy/mypage?user_id=122).
