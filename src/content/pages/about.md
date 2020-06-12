@@ -3,9 +3,9 @@ template: about-page
 slug: /about
 title: About masia02.eth
 ---
-Web全般の仕事をして2015年[\#デジタル資産](https://twitter.com/hashtag/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%B3%87%E7%94%A3)に魅了され→暴落したけど実験思考で CipherWeb LLC Founder & CEO[https://cipher-web.com](https://cipher-web.com/)\
-\
-[https://appfav.net](https://appfav.net/)運営[\#SEO](https://twitter.com/hashtag/SEO)[\#アフィリエイト](https://twitter.com/hashtag/%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88)で藻掻きつつ[\#web3](https://twitter.com/hashtag/web3)[\#XR](https://twitter.com/hashtag/XR)[\#AI](https://twitter.com/hashtag/AI)など情報収集 人柱 5G IOTからチャンスを模索
+Web全般を
+
+仕事に2015年[\#Bitcoin](https://twitter.com/search?q=%23Bitcoin&src=hashtag_click) [\#デジタル資産](https://twitter.com/search?q=%23%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%B3%87%E7%94%A3&src=hashtag_click)に魅了され実験思考で [@CipherWebLLC](https://twitter.com/CipherWebLLC) Founder [http://Appfav.net](https://t.co/9FPjQ0jJ5k?amp=1)運営 Spatial Web [\#XR](https://twitter.com/search?q=%23XR&src=hashtag_click) 3D [\#web3](https://twitter.com/search?q=%23web3&src=hashtag_click) [\#Blockchain](https://twitter.com/search?q=%23Blockchain&src=hashtag_click) [\#AI](https://twitter.com/search?q=%23AI&src=hashtag_click) [\#5G](https://twitter.com/search?q=%235G&src=hashtag_click) [\#IOT](https://twitter.com/search?q=%23IOT&src=hashtag_click) など情報収集 人柱 [http://masia02.eth.link](https://t.co/OtpVy1JIGH?amp=1)
 
 ![masia02.eth](/assets/mgwnfd8tadoh.jpg "masia02.eth")
 
