@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: About masia02.eth
 ---
 Web全般の仕事をして2015年[\#デジタル資産](https://twitter.com/hashtag/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%B3%87%E7%94%A3)に魅了され→暴落したけど実験思考で CipherWeb LLC Founder & CEO[https://cipher-web.com](https://cipher-web.com/)\
 \
