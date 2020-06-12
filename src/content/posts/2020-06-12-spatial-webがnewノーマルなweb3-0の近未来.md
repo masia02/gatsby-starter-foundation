@@ -32,7 +32,7 @@ FacebookのOculusやHTC VIVE、Microsoft Holorensなど開発しており、Goog
 
 触覚フィードバックを実現するデバイスはこれまでもいくつか登場していますが、手軽にリアルな感覚が体験できるようになると良いですね！
 
-<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://japanese.engadget.com/2019/07/23/facebook-vr-ar/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F60bad2e0-ad0c-11e9-be2d-d5e5b03ed076&amp;amp;client=a1acac3e1b3290917d92&amp;amp;signature=12e6ad6520cc29b10e25aec219dd305bfd032520" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Facebook、VR/AR向け触覚フィードバックデバイスを披露 - Engadget Japanese</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Oculus GoやQuestなど、スタンドアロン型VRヘッドセットの登場により、VRがこれまでよりも身近なものになりつつあります。同時に、VR空間を比較的自由に動き回れる6DoSに対応するものも増えていますが、そうなると次に欲しくなるのが、VR空間内のものを触った感覚が得られる触覚フィードバックです。  触覚フィー...</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
+#### [Facebook、VR/AR向け触覚フィードバックデバイスを披露](https://japanese.engadget.com/2019/07/23/facebook-vr-ar/)
 
 ### Spatial Web（空間Web）
 
@@ -53,19 +53,23 @@ WWWのこの新しい時代がどのようにして生まれるかについて�
 
 空間ウェブはどのようにしてWeb3.0を定義しているか
 
-<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://wiredelta.com/how-the-spatial-web-is-defining-web-3-0/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:wiredelta.com/wp-content/uploads/2020/02/Wordpress-375-x-250@2x.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">How the Spatial Web is Defining Web 3.0 - Wiredelta</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">The World Wide Web (WWW) has come a long way since it was introduced in the late 1980s. It evolved and expanded its horizon to cover the entire planet that is labeled as today&amp;#8217;s future. With AI, Augmented and Virtual Reality moving at a faster and faster pace, WWW made a significant change of perspective \\\[&amp;hellip;]</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://wiredelta.com/how-the-spatial-web-is-defining-web-3-0/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:wiredelta.com/wp-content/uploads/2020/02/Wordpress-375-x-250@2x.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">How the Spatial Web is Defining Web 3.0 - Wiredelta</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">The World Wide Web (WWW) has come a long way since it was introduced in the late 1980s. It evolved and expanded its horizon to cover the entire planet that is labeled as today&amp;#8217;s future. With AI, Augmented and Virtual Reality moving at a faster and faster pace, WWW made a significant change of perspective \\\\[&amp;hellip;]</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 ### ソーシャルVRを体験してみよう
 
 空間Webを体験するには、メタバース（仮想世界）でコミュニケーションできるソーシャルVRをやってみるのが良いでしょう。
 
-**Mozilla Hubs**VRデバイスヘッドセットがなくてもブラウザでお手軽に体験できます。
+**[Mozilla Hubs](https://hubs.mozilla.com/)**
+
+VRデバイスヘッドセットがなくてもブラウザでお手軽に体験できます。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5QnOsyyebEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://hubs.mozilla.com/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://capture.heartrails.com/100x100?https://hubs.mozilla.com/" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Hubs by Mozilla</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Share a virtual room with friends. Watch videos, play with 3D objects, or just hang out.</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
-**Spatial**VR、AR、デスクトップ、モバイルでどこからでも共同作業コラボレーション。実物そっくりのアバターを作成。3Dモデル、プレゼンテーション、ビデオ、写真を一緒に見ることができます。
+
+**Spatial**
+
+VR、AR、デスクトップ、モバイルでどこからでも共同作業コラボレーション。実物そっくりのアバターを作成。3Dモデル、プレゼンテーション、ビデオ、写真を一緒に見ることができます。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NVujUnsKuhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -80,16 +84,14 @@ Webブラウザでも一応体験できますが、Oculus QuestやHolorens、Mag
 
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://vrchat.com/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://capture.heartrails.com/100x100?https://vrchat.com/" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">VRChat</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">VRChat lets you create, publish, and explore virtual worlds with other people from around the world.</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
-**補足：Spatial Chat**これは２Dの例だが大人数のオンラインパーティーでも自分に近い人の声が大きく聴こえるので、近い席の人達と会話するようなリアルなパーティー感が楽しめる。
+**補足：[Spatial Chat](https://spatial.chat/)**
 
-<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://spatial.chat/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://capture.heartrails.com/100x100?https://spatial.chat/" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">SpatialChat</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Join Virtual Party on SpatialChat!</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
+これは２Dの例だが大人数のオンラインパーティーでも自分に近い人の声が大きく聴こえるので、近い席の人達と会話するようなリアルなパーティー感が楽しめる。
 
 このような感じでソーシャルVRでも自分のアバターに近い人の声が大きく聴こえるのはとてもリアル。\
 \
-**NeosVR**\
+**[NeosVR Metaverse](https://neosvr.com/)**\
 クリエイター向け機能山盛りの老舗メタバースサービス
-
-<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://neosvr.com/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://capture.heartrails.com/100x100?https://neosvr.com/" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">NeosVR Metaverse</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Neos is a virtual reality metaverse that reinvents and generalizes the way social experiences and various virtual creations are built, to let them all coexist in one shared space.</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 仮想通貨（Neos Credits cryptcurrency token）を採用したり、\
 リップトラッキングで 顎・舌・頬・唇が動いてリアルな表情表現も。
@@ -101,8 +103,6 @@ Webブラウザでも一応体験できますが、Oculus QuestやHolorens、Mag
 **補足：音声認識からDeepLで自動翻訳化**
 
 最近ではリアルタイムで音声認識しテキストで表示、さらに高性能の自動翻訳を表示することも可能になっており、ソーシャルVRで利用できれば全世界の人とコミュニケーションが可能になります。
-
-
 
 ### ブロックチェーンを活用した分散型メタバース
 
@@ -143,10 +143,8 @@ VR Chatのようにいろんなワールドをワープで繋ぐ世界と、ど�
 
 ### **DNSの代替**
 
-**ETHEREUM NAME SERVICE**\
+**[ETHEREUM NAME SERVICE](https://ens.domains/)**\
 Ethereum Name Serviceは、Ethereumブロックチェーンに基づく分散型のオープンで拡張可能な命名システムです。ENSを使用すると、長いアドレスをコピーまたは入力する必要がなくなります。
-
-<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://app.ens.domains/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://capture.heartrails.com/100x100?https://app.ens.domains/" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">ENS App</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;"></span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 **HTTPの代替**
 
@@ -157,11 +155,9 @@ P2Pネットワーク上で動作するハイパーメディアプロトコル
 
 ### **ストレージの代替**
 
-**Sia（ブロックチェーンストレージ）**\
+**[Sia（ブロックチェーンストレージ）](https://sia.tech/)**\
 ポストクラウドの世界に向けた分散型ストレージ。\
 Siaは、分散型クラウドストレージの代表的なプラットフォームです。サインアップもサーバーも、信頼できるサードパーティも必要ありません。Siaはブロックチェーン技術を活用して、従来のクラウドストレージプロバイダーよりも堅牢で手頃な価格のデータストレージマーケットプレイスを実現しています。
-
-<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://sia.tech/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://capture.heartrails.com/100x100?https://sia.tech/" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Sia</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;"></span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://gigazine.net/news/20200310-sia-cloud-storage-2-dollar/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:i.gzn.jp/img/2020/03/10/sia-cloud-storage-2-dollar/00.jpg" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">月額200円以下で1TBのクラウドストレージを使える「Sia」で事業を行う場合の資産や経費のシミュレーションが公開中</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">ブロックチェーンを用いて、自分のコンピューターのストレージの空き容量をシェアしたり、利用者からシェアされたストレージの空き容量を借りたりすることができるクラウドストレージサービスを提供するSiaが、Google DriveやDropboxといった他サービスよりも安い月額2ドル(約200円)程度で1TBのクラウドストレージを提供できる理由を、仮にSiaでストレージをシェアする事業を始めた場合の詳細な費用や収益の数字とともに公開しています。</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
@@ -187,11 +183,10 @@ RNDRは集中型GPUレンダリングクラウドよりも優れたスケール�
 
 下記、ふーさんの記事がとても勉強になりました。
 
-> **RNDR Network とゆうヤバイプロジェクト**\
-> <https://steemit.com/japanese/@fusan/rndr-network>\
-> <https://steemit.com/japanese/@fusan/rndr-naetwork-puygxfyj>\
-> <https://steemit.com/japanese/@fusan/6r4ztn-rndr-network>\
-> \
+> **[RNDR Network とゆうヤバイプロジェクト](https://steemit.com/japanese/@fusan/rndr-network)**[](https://steemit.com/japanese/@fusan/rndr-network)\
+> **[RNDR networkの続報、ヤバス！](https://steemit.com/japanese/@fusan/rndr-naetwork-puygxfyj)[](https://steemit.com/japanese/@fusan/rndr-naetwork-puygxfyj)**\
+> **[RNDR Networkの続報その２](https://steemit.com/japanese/@fusan/6r4ztn-rndr-network)**\
+> [](https://steemit.com/japanese/@fusan/6r4ztn-rndr-network)\
 > **ソフトウェアに競争優位性を持っていればサーバーを持たなくてよくなる時代。**\
 > \
 > ブロックチェーンや分散ストレージは対立構造ではなく、個人にもメリットがあるとゆうことは法人にもメリットがあります。それはそれぞれがノードでありピアだからです。分散は能力のあるものはさらに発揮されるオープンな殴り合いなのです。\
