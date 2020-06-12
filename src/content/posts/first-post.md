@@ -3,7 +3,7 @@ template: blog-post
 title: ポストApp Store/Google Play、モバイルアプリの次に来るもの Appfav
 slug: appfav
 date: 2019-08-27 09:00
-description: sdasd
+description: Webアプリストア
 featuredImage: /assets/qmzrwmac1xxsuaf8kigngrdrnmtyrppoxofeylypmrm8o1.jpg
 ---
 現在モバイルアプリ配信市場は、App StoreとGoogle Playにほぼ独占されています。
@@ -27,9 +27,11 @@ PWAは、デスクトップとモバイルの両方でインストール可能�
 
 5Gが利用できるようになると、高速大容量・低遅延・多数端末接続ができるようになります。ウェブアプリがより使いやすい環境になります。5Gに向けてGoogleのクラウドゲームサービス「Stadia」などいろんなサービスが始まるでしょう。
 
-[https://note.com/masia02/n/n24dfb90085e7](https://note.com/masia02/n/n24dfb90085e7 "ブラウザゲームの進化がスゴイ！")
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://note.com/masia02/n/n24dfb90085e7" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:assets.st-note.com/production/uploads/images/19229446/rectangle_large_type_2_7d7977b6969de244a6e5888a16061285.png?fit=bounds&amp;amp;quality=60&amp;amp;width=1280" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">ブラウザゲームの進化がスゴイ！｜masia02.eth (CipherWeb)｜note</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;"> ブラウザゲームを推す理由は、こちらの記事を御覧ください。        ブラウザゲームは、HTML5ゲームとも言われています。さらにスマホのブラウザでもスマホアプリ(ネイティブアプリ)のような動作をするPWAなアプリやゲームを知り、色々探して試しました。  PWA（Progressive Web Apps）とは  PWAとは、モバイル端末でウェブサイトを表示するときに、まるでネイティブアプリのような動作を可能にする仕組みのことです。    Androidの場合Chromeブラウザで、Webサイトをホーム画面に追加して利用できます。(PWAはGoogleが取り組んでいるプロジェクトです</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
- [https://appfav.net/webapps/item.php?appId=257](https://appfav.net/webapps/item.php?appId=257 " Paperspace - 仮想デスクトップ")
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://appfav.net/webapps/item.php?appId=257" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:appfav.net/image/thum_sc2/20190922132452216988Yfs2qVrEcX.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Paperspace - 仮想デスクトップとは？クラウド上にパーソナルコンピュータを構築・レビュー｜Appfav</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">先進的な開発者、チーム、および企業向けの高性能なGPU対応クラウドコンピューティング製品（#DaaSおよび#MLOps）。&lt;br /&gt;  個人なら使った分だけお支払い。高価なゲーミングマシンを買わずに安価にレンタルしてPCVRなども楽しめる！</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
+
+
 
 #### WebAssemblyによる高速化・バイナリ化
 
@@ -40,13 +42,13 @@ PWAは、デスクトップとモバイルの両方でインストール可能�
 
 こちらも登場して数年ですが、徐々に浸透しているブラウザを使ってアクセスするAR/VRの規格です。さらにVR・AR・MRにも対応する規格がXRです。
 
-[https://appfav.net/webapps/item.php?appId=248](https://appfav.net/webapps/item.php?appId=248 "8th Wall | Augmented Reality")
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://www.8thwall.com/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:cdn.8thwall.com/web/share/8th_Wall_Metadata_SocialCover-c203c3dd.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">8th Wall - Augmented Reality</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">8th Wall is breaking down walls between the digital and physical worlds, allowing creators and brands to develop immersive content that can be instantly published to the mobile web.</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 #### DApps（自律分散型アプリケーション）
 
 ブロックチェーンを利用することで非中央集権なアプリを実現する技術。主にMetamaskなどをブラウザに機能拡張するか、DAppsブラウザアプリで利用やブロックチェーンゲームのアプリにウォレット機能が付いたものもあるが、Portisなどのように通常のブラウザでWebサービスにログインして使うように利用できるコントラクトウォレットの仕組みを使うことをオススメします。
 
-[https://alis.to/masia02/articles/K8DQmM6N87Z7](https://alis.to/masia02/articles/K8DQmM6N87Z7 "Ethereum DAppsはコントラクトウォレットでログインしよう！")
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://alis.to/masia02/articles/K8DQmM6N87Z7" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:alis.to/d/api/articles_images/masia02/K8DQmM6N87Z7/ddcd6fd2-c53b-4381-aef6-9d6880bfb540.jpeg?d=1200x630" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Ethereum DAppsはコントラクトウォレットでログインしよう！ | ALIS</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">ALIS is Japan&amp;#x27;s First Social Media Using Blockchain Technology</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 ### アプリが見つけにくい問題の対策
 
