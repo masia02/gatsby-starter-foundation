@@ -16,7 +16,7 @@ featuredImage: /assets/gh8mzgswp_20200601_120146_1590980504696decentraland2.png
 
 ゴーグルなどメガネ型デバイスでAR（拡張現実）、VR（仮想現実）、MR（複合現実）、に映像や触覚などを使うSR（代替現実）、それらを総称してXRと呼ぶ空間を見る、Spatial Web（空間Web）・メタバース（仮想世界）で繋がる世界。5Gで高速通信、3DをAIなども駆使して表現。そしてインフラはブロックチェーンが分散型社会を創る次世代のWeb3.0が始まりつつあります。
 
-
+![](/assets/web3hyou.png)
 
 ### **XRデバイスヘッドセット**
 
@@ -38,8 +38,6 @@ FacebookのOculusやHTC VIVE、Microsoft Holorensなど開発しており、Goog
 
 WWWのこの新しい時代がどのようにして生まれるかについては、さまざまな理解と説明があります。以下は、違いを説明する簡単な図です。
 
-
-
 > Spatial Webは新しい多次元ネットワークです。\
 > 画像引用元：<https://medium.com/swlh/an-introduction-to-the-spatial-web-bb8127f9ac45>
 
@@ -47,13 +45,11 @@ WWWのこの新しい時代がどのようにして生まれるかについて�
 
 しかし、未来の時代にはもっと多くのものがあります。
 
-
-
 > 画像引用元：<https://medium.com/swlh/an-introduction-to-the-spatial-web-bb8127f9ac45>
 
 空間ウェブはどのようにしてWeb3.0を定義しているか
 
-<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://wiredelta.com/how-the-spatial-web-is-defining-web-3-0/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:wiredelta.com/wp-content/uploads/2020/02/Wordpress-375-x-250@2x.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">How the Spatial Web is Defining Web 3.0 - Wiredelta</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">The World Wide Web (WWW) has come a long way since it was introduced in the late 1980s. It evolved and expanded its horizon to cover the entire planet that is labeled as today&amp;#8217;s future. With AI, Augmented and Virtual Reality moving at a faster and faster pace, WWW made a significant change of perspective \\\\\\\[&amp;hellip;]</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://wiredelta.com/how-the-spatial-web-is-defining-web-3-0/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:wiredelta.com/wp-content/uploads/2020/02/Wordpress-375-x-250@2x.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">How the Spatial Web is Defining Web 3.0 - Wiredelta</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">The World Wide Web (WWW) has come a long way since it was introduced in the late 1980s. It evolved and expanded its horizon to cover the entire planet that is labeled as today&amp;#8217;s future. With AI, Augmented and Virtual Reality moving at a faster and faster pace, WWW made a significant change of perspective \\\\\\\\[&amp;hellip;]</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 ### ソーシャルVRを体験してみよう
 
