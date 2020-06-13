@@ -27,3 +27,11 @@ FacebookのOculusやHTC VIVE、Microsoft Holorensなど開発しており、Goog
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TmznWYm7_ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://www.famitsu.com/news/202005/22198843.html" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:www.famitsu.com/images/000/198/843/z_5ec725ca4182e.jpg" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Facebookがプロトタイプ映像で提示する、VRで拡張された複合現実デスクトップのコンセプトがなかなかスゴい - ファミ通.com</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Facebookが公開した、VR技術を応用した複合現実デスクトップのコンセプト映像が話題に。</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
+
+触覚フィードバックを実現するデバイスはこれまでもいくつか登場していますが、手軽にリアルな感覚が体験できるようになると良いですね！
+
+#### [Facebook、VR/AR向け触覚フィードバックデバイスを披露](https://japanese.engadget.com/2019/07/23/facebook-vr-ar/)
+
+### Spatial Web（空間Web）
+
+WWWのこの新しい時代がどのようにして生まれるかについては、さまざまな理解と説明があります。以下は、違いを説明する簡単な図です。
