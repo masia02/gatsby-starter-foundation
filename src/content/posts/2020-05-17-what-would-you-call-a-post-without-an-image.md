@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: ログインはパスワード管理ソフトで自動入力が便利すぎ！パスワード登録も簡単！個人利用は無料
-slug: post-no-image
+slug: bitwarden
 date: 2019-10-16 08:40
 description: パスワード管理ソフトを利用すると、マスターパスワード１つだけ覚えればOK！自動入力してくれて楽！
 featuredImage: /assets/09-1.jpg
