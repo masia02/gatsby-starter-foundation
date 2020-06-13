@@ -3,9 +3,11 @@ template: about-page
 slug: /about
 title: About masia02.eth
 ---
-Web全般を
+Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思考で [@CipherWebLLC](https://twitter.com/CipherWebLLC) Founder [http://Appfav.net](https://t.co/9FPjQ0jJ5k?amp=1)運営 Spatial Web XR 3D Web3 Blockchain AI 5G IOT など情報収集 人柱 
 
-仕事に2015年[\#Bitcoin](https://twitter.com/search?q=%23Bitcoin&src=hashtag_click) [\#デジタル資産](https://twitter.com/search?q=%23%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%B3%87%E7%94%A3&src=hashtag_click)に魅了され実験思考で [@CipherWebLLC](https://twitter.com/CipherWebLLC) Founder [http://Appfav.net](https://t.co/9FPjQ0jJ5k?amp=1)運営 Spatial Web [\#XR](https://twitter.com/search?q=%23XR&src=hashtag_click) 3D [\#web3](https://twitter.com/search?q=%23web3&src=hashtag_click) [\#Blockchain](https://twitter.com/search?q=%23Blockchain&src=hashtag_click) [\#AI](https://twitter.com/search?q=%23AI&src=hashtag_click) [\#5G](https://twitter.com/search?q=%235G&src=hashtag_click) [\#IOT](https://twitter.com/search?q=%23IOT&src=hashtag_click) など情報収集 人柱 [http://masia02.eth.link](https://t.co/OtpVy1JIGH?amp=1)
+## プロフィールページ
+
+[http://masia02.eth.link](https://t.co/OtpVy1JIGH?amp=1)
 
 ![masia02.eth](/assets/aa_unsrzlvsf.jpg "masia02.eth")
 
@@ -17,27 +19,27 @@ Web全般を
 
 ### [CipherWeb Line公式アカウントをフォローする](https://lin.ee/C11BGoW)
 
+気になったネタの先行メモ
+
 ### [CipherWebサークル](https://note.com/masia02/circle)
 
-### [Alis](https://alis.to/users/masia02)
+[Appfav lab](https://discord.gg/y42Z8A)
 
-### [Spotlignt](https://spotlight.soy/mypage?user_id=122)
+一般向け記事\
+[note](https://note.com/masia02) 
 
-### [Brain](https://brain-market.com/u/masia02)
+ビットコインLapps系記事\
+[Spotlignt](https://spotlight.soy/mypage?user_id=122)
 
-### [note](https://note.com/masia02)
+イーサリアムdapps系記事\
+[Alis](https://alis.to/users/masia02)
+
+とかテーマ別に記事を分けたいところですが、試しにそれぞれで転載して反応をみたりしてしまっています。\
+ここは気に入った記事をアーカイブすることが多いです。気分でここだけに書く場合もあるけど…
 
 ### [peakd](https://peakd.com/@masia02)
 
-### プロフィールページ
-
-[masia02.eth](http://masia02.eth.link/)
-
-[3box](https://3box.io/0x4D859268820330cCBF721Dc263C3F516F4971B3B/wall)
-
-[onename](https://onename.com/masia02)\
-\
-[masia02.auth.eth](https://etherscan.io/address/masia02.auth.eth "See this address on the blockchain explorer")
+### [Brain](https://brain-market.com/u/masia02)
 
 ### [facebook](https://www.facebook.com/masia02)
 
@@ -47,8 +49,10 @@ Web全般を
 
 ### [Instagram](https://www.instagram.com/masia02/)
 
-### [Pinterest](https://www.pinterest.jp/masia02/)
-
-[](https://www.pinterest.jp/masia02/)
+### [Pinterest](https://www.pinterest.jp/masia02/)[](https://www.pinterest.jp/masia02/)
 
 ### [Linkedin](https://www.linkedin.com/in/masia02/)
+
+**[3box](https://3box.io/0x4D859268820330cCBF721Dc263C3F516F4971B3B/wall)**
+
+**[onename](https://onename.com/masia02)**
