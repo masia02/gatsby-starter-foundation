@@ -84,3 +84,13 @@ DAppsブラウザでDAppsのURLにアクセスして利用開始できます。
 
 * [Firefoxブラウザ](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=ja)
 * [MetaMask Firefox向けアドオン](https://addons.mozilla.org/ja/firefox/addon/ether-metamask/)
+
+
+
+私が日々思うつぶやきもフォローしてくれる方は、\
+***[masia02 Twitterをフォローする](https://twitter.com/masia02)***
+
+記事を読みたい方は、\
+***[CipherWeb Line公式アカウントをフォローする](https://lin.ee/C11BGoW)***
+
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://note.com/masia02/circle" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:assets.st-note.com/production/uploads/images/26925495/bb1fe45e8dbc0961ea8a14f3bb96f486.png?format=jpeg&amp;amp;height=1006&amp;amp;quality=45&amp;amp;width=1920" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">CipherWebサークル｜masia02.eth (CipherWeb)</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Web3.0 Spatial Web メタバース AI ブロックチェーン IoTなど先端技術がいつ一般に浸透するかわからないが、知っておくと良いことやお得情報など情報共有するサークル。</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
