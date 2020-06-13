@@ -29,3 +29,5 @@ Webへアクセスするデバイスは、スマホからメガネやゴーグ�
 FacebookのOculusやHTC VIVE、Microsoft Holorensなど開発しており、Googleも頑張っていて、AppleもiPhoneに変わる次世代のデバイスを出す噂が耐えません。
 
 ヘッドセットさえあれば、複数のディスプレイを表示して作業したりいろいろ楽しめるようになるでしょう。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TmznWYm7_ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
