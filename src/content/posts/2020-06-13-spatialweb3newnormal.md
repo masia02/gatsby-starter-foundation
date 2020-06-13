@@ -40,10 +40,6 @@ WWWのこの新しい時代がどのようにして生まれるかについて�
 
 
 
-
-
-
-
 > Spatial Webは新しい多次元ネットワークです。\
 > 画像引用元：<https://medium.com/swlh/an-introduction-to-the-spatial-web-bb8127f9ac45>
 
@@ -51,7 +47,7 @@ WWWのこの新しい時代がどのようにして生まれるかについて�
 
 しかし、未来の時代にはもっと多くのものがあります。
 
-![](/assets/picture_pc_11cbe5ae4e62108b1a306d0685731606.webp)
+
 
 > 画像引用元：<https://medium.com/swlh/an-introduction-to-the-spatial-web-bb8127f9ac45>
 
