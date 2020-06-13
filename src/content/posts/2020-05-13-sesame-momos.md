@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Ethereum DAppsはコントラクトウォレットでログインしよう！
-slug: contractwallet
+slug: connectaccount
 date: 2020-02-16 12:47
 description: コントラクトウォレットを利用しよう
 featuredImage: /assets/i9zmshlaf_20200215_172727_eaa4c910da70ce5c2a601b2c8a0a8801_m.jpg
