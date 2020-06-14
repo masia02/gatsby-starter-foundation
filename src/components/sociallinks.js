@@ -31,7 +31,7 @@ const SocialLinks = () => (
       </a>
     </li>
     <li>
-      <a href="https://medium.com/cipher-web">
+      <a href="https://medium.com/@masia02">
         <FaMedium />
       </a>
     </li>
