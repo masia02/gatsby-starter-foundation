@@ -1,5 +1,4 @@
 import React from "react"
-import SocialLinks from "./SocialLinks";
 import {Link} from "gatsby"
 import { RiHeart2Line } from "react-icons/ri";
 
