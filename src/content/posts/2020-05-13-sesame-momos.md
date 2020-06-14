@@ -1,16 +1,16 @@
 ---
 template: blog-post
-title: Ethereum DAppsはコントラクトウォレットでログインしよう！
-slug: contractwallet
+title: Ethereum DAppsはコネクトアカウントでログインしよう！
+slug: connectaccount
 date: 2020-02-16 12:47
 description: コントラクトウォレットを利用しよう
 featuredImage: /assets/i9zmshlaf_20200215_172727_eaa4c910da70ce5c2a601b2c8a0a8801_m.jpg
 ---
-**コントラクトウォレットを推す理由はこちら**
+**コネクトアカウントを推す理由はこちら**
 
 [危ない!?ブロックチェーンゲーム](https://www.dapps-play.net/blog/sunflower-sutra)
 
-## 【コントラクトウォレット】
+## 【コネクトアカウント(コントラクトウォレット)】
 
 まだベータ版のもあり**大量のEhterを使用しない**方が良いが、\
 秘密鍵やパスフレーズを入力する必要がないので安全！

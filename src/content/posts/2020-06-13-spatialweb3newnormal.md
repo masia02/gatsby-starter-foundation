@@ -4,7 +4,7 @@ title: Spatial WebがNewノーマルなWeb3.0の近未来
 slug: spatialweb3
 date: 2020-06-13 11:20
 description: ブロックチェーンは皆で使ってこそ信用度が増す。企業もローコストで落ちないインフラにメリットがある。ビットコイン同様先行者有利や貢献による報酬などもある。OSS+ブロックチェーンは理想だがね。
-featuredImage: /assets/rectangle_large_type_2_4cf225bec491fae50f1a530ec63399ed.webp
+featuredImage: /assets/gh8mzgswp_20200601_120146_1590980504696decentraland2.png
 ---
 **Fortniteやどうぶつの森が多くの若者に流行っていますね！\
 自粛中で直接会わなくてもゲームで繋がる時代。**
@@ -16,7 +16,7 @@ featuredImage: /assets/rectangle_large_type_2_4cf225bec491fae50f1a530ec63399ed.w
 
 ゴーグルなどメガネ型デバイスでAR（拡張現実）、VR（仮想現実）、MR（複合現実）、に映像や触覚などを使うSR（代替現実）、それらを総称してXRと呼ぶ空間を見る、Spatial Web（空間Web）・メタバース（仮想世界）で繋がる世界。5Gで高速通信、3DをAIなども駆使して表現。そしてインフラはブロックチェーンが分散型社会を創る次世代のWeb3.0が始まりつつあります。
 
-![](/assets/picture_pc_3130ef123c8c6ba2098b65b311a06269.webp)
+![](/assets/web3hyou.png)
 
 ### **XRデバイスヘッドセット**
 
@@ -38,22 +38,22 @@ FacebookのOculusやHTC VIVE、Microsoft Holorensなど開発しており、Goog
 
 WWWのこの新しい時代がどのようにして生まれるかについては、さまざまな理解と説明があります。以下は、違いを説明する簡単な図です。
 
-![](/assets/picture_pc_11cbe5ae4e62108b1a306d0685731606.webp)
+![](/assets/20200601_111208_capture.jpg)
 
 > Spatial Webは新しい多次元ネットワークです。\
-> 画像引用元：<https://medium.com/swlh/an-introduction-to-the-spatial-web-bb8127f9ac45>
+> \[画像引用元](<> https://medium.com/swlh/an-introduction-to-the-spatial-web-bb8127f9ac45>)
 
 空間Webは、3D空間に雰囲気を作成します。AI、XR、モノのインターネット（IoT）など、さまざまな要素があります。これは、物理的な世界と仮想現実の融合です。ユーザーは、物理ドメインを仮想ドメインに正確にコピーした概要を把握できます。それは現実のホログラフィックシミュレーションです。 AI、XRの融合が私たちの物理的な世界にデジタルで入力し始めます。
 
 しかし、未来の時代にはもっと多くのものがあります。
 
-![]()
+![](/assets/20200601_111427_0_uxla6pp-fl2gnd_u.png)
 
-> 画像引用元：<https://medium.com/swlh/an-introduction-to-the-spatial-web-bb8127f9ac45>
+> \[画像引用元](<> https://medium.com/swlh/an-introduction-to-the-spatial-web-bb8127f9ac45>)
 
 空間ウェブはどのようにしてWeb3.0を定義しているか
 
-<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://wiredelta.com/how-the-spatial-web-is-defining-web-3-0/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:wiredelta.com/wp-content/uploads/2020/02/Wordpress-375-x-250@2x.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">How the Spatial Web is Defining Web 3.0 - Wiredelta</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">The World Wide Web (WWW) has come a long way since it was introduced in the late 1980s. It evolved and expanded its horizon to cover the entire planet that is labeled as today&amp;#8217;s future. With AI, Augmented and Virtual Reality moving at a faster and faster pace, WWW made a significant change of perspective \\\\\\\\\[&amp;hellip;]</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://wiredelta.com/how-the-spatial-web-is-defining-web-3-0/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:wiredelta.com/wp-content/uploads/2020/02/Wordpress-375-x-250@2x.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">How the Spatial Web is Defining Web 3.0 - Wiredelta</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">The World Wide Web (WWW) has come a long way since it was introduced in the late 1980s. It evolved and expanded its horizon to cover the entire planet that is labeled as today&amp;#8217;s future. With AI, Augmented and Virtual Reality moving at a faster and faster pace, WWW made a significant change of perspective \\\\\\\\\\\[&amp;hellip;]</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 ### ソーシャルVRを体験してみよう
 
@@ -205,7 +205,7 @@ Join a WebRTC video conference powered by the Jitsi Videobridge](https://meet.ji
 
 > 多to多 のビデオ会議の暗号化はまだまだで、今現在 Google + Mozilla + Apple などが参加している標準化団体に対してWebRTC(エンドユーザーのブラウザ間のP2Pプロトコル)の拡張を提案していて、それが実装されればブラウザを用いた 多to多 暗号化ビデオチャットのパフォーマンスが数百倍上がるらしい。そういうレベルなのでまだ遠いようです。
 
-### コントラクトウォレット
+### コネクトアカウント（コントラクトウォレット）
 
 contact walletでこれまで同様にIDとパスワードでログインして使えます。
 
