@@ -4,6 +4,7 @@ title: ENS AppからIPFSに直接アップロード（Temporal Cloudを使用）
 slug: ensapp_ipfs
 date: 2020-06-16 00:58
 description: ENS Appから.ethドメインに紐づけて簡単にIPFSに分散型Webサイトなどを簡単にアップできる
+featuredImage: /assets/temporal2.png
 ---
 **[ENSを取得](https://dapps-play.net/ensapp)**して、その.ethドメインに紐づけて簡単にIPFSに分散型Webサイトなどを簡単にアップできるようになっていたのでやってみました。
 
