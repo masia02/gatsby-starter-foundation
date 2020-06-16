@@ -23,16 +23,16 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 
 ### [CipherWebサークル](https://note.com/masia02/circle)
 
-[Appfav lab](https://discord.gg/y42Z8A)
+**[Appfav lab](https://discord.gg/y42Z8A)**
 
 一般向け記事\
-[note](https://note.com/masia02) 
+**[note](https://note.com/masia02)** 
 
 ビットコインLapps系記事\
-[Spotlignt](https://spotlight.soy/mypage?user_id=122)
+**[Spotlignt](https://spotlight.soy/mypage?user_id=122)**
 
 イーサリアムdapps系記事\
-[Alis](https://alis.to/users/masia02)
+**[Alis](https://alis.to/users/masia02)**
 
 とかテーマ別に記事を分けたいところですが、試しにそれぞれで転載して反応をみたりしてしまっています。\
 ここには気に入った記事をアーカイブすることが多いです。\
@@ -58,6 +58,6 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 
 **[Monappy](https://monappy.jp/u/masia02)**
 
-**[onename](https://onename.com/masia02)**
+[onename](https://onename.com/masia02)
 
-**[Ameba](https://profile.ameba.jp/ameba/masia02)**
+[Ameba](https://profile.ameba.jp/ameba/masia02)
