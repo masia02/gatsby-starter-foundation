@@ -56,6 +56,8 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 
 **[3box](https://3box.io/0x4D859268820330cCBF721Dc263C3F516F4971B3B/wall)**
 
+**[Monappy](https://monappy.jp/u/masia02)**
+
 **[onename](https://onename.com/masia02)**
 
 **[Ameba](https://profile.ameba.jp/ameba/masia02)**
