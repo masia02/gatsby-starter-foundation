@@ -40,6 +40,9 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 ここには気に入った記事をアーカイブすることが多いです。\
 気分でここだけに書く場合もあるけど…
 
+メルマガで読みたい方\
+[substack](https://cipherweb.substack.com/)
+
 [mintbase](https://mintbase.io/my-market/0x4d38eea6619b4159498b31df9623000f2e6ef25e)
 
 [OpenSea](https://opensea.io/accounts/masia02eth)
