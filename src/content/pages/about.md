@@ -9,6 +9,8 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 
 <https://masia02.eth.link>
 
+[Cryptovoxels](https://www.cryptovoxels.com/play?coords=N@238W,12U,572N)
+
 ![masia02.eth](/assets/aa_unsrzlvsf.jpg "masia02.eth")
 
 私が日々思うつぶやきもフォローしてくれる方は、
@@ -38,9 +40,19 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 ここには気に入った記事をアーカイブすることが多いです。\
 気分でここだけに書く場合もあるけど…
 
+[mintbase](https://mintbase.io/my-market/0x4d38eea6619b4159498b31df9623000f2e6ef25e)
+
+[OpenSea](https://opensea.io/accounts/masia02eth)
+
+[Creary](https://creary.net/@masia02/projects)
+
+[base](https://cipherweb.base.ec/)
+
 ### [peakd](https://peakd.com/@masia02)
 
 ### [Brain](https://brain-market.com/u/masia02)
+
+[Cent](https://beta.cent.co/@masia02)
 
 ### [facebook](https://www.facebook.com/masia02)
 
@@ -53,6 +65,8 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 ### [Pinterest](https://www.pinterest.jp/masia02/)[](https://www.pinterest.jp/masia02/)
 
 ### [Linkedin](https://www.linkedin.com/in/masia02/)
+
+[decentraland](https://play.decentraland.org/?position=-61,-101)
 
 **[3box](https://3box.io/0x4D859268820330cCBF721Dc263C3F516F4971B3B/wall)**
 
