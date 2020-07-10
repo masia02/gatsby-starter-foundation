@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: About masia02.eth
 ---
-Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思考で [@CipherWebLLC](https://twitter.com/CipherWebLLC) Founder [https://Appfav.net](https://appfav.net)運営 Spatial Web XR 3D Web3 Blockchain AI 5G IOT など情報収集 人柱 
+Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思考で [CipherWebLLC](https://cipher-web.com) Founder [Appfav.net](https://appfav.net)運営 Spatial Web XR 3D Web3 Blockchain AI 5G IOT など情報収集 人柱 
 
 ## プロフィールページ
 
@@ -56,30 +56,12 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://cipherweb.base.ec/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:base-ec2if.akamaized.net/w=1200,h=1200,a=3,q=90,u=1,b=00000000/images/user/logo/bd1723e2a44d391b46705da9166a9601.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">cipherweb powered by BASE</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">オリジナルTシャツやグッズ販売。</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
-### [peakd](https://peakd.com/@masia02)
+### [peakd](https://peakd.com/@masia02) , [Brain](https://brain-market.com/u/masia02)
 
-### [Brain](https://brain-market.com/u/masia02)
-
-[Cent](https://beta.cent.co/@masia02)
-
-### [facebook](https://www.facebook.com/masia02)
-
-### [YouTube](https://www.youtube.com/user/masia02)
-
-### [Tiktok](https://www.tiktok.com/@masia02)
-
-### [Instagram](https://www.instagram.com/masia02/)
-
-### [Pinterest](https://www.pinterest.jp/masia02/)[](https://www.pinterest.jp/masia02/)
-
-### [Linkedin](https://www.linkedin.com/in/masia02/)
+[Cent](https://beta.cent.co/@masia02) , [facebook](https://www.facebook.com/masia02) , [YouTube](https://www.youtube.com/user/masia02) , [Tiktok](https://www.tiktok.com/@masia02) , [Instagram](https://www.instagram.com/masia02/) , [Pinterest](https://www.pinterest.jp/masia02/)[](https://www.pinterest.jp/masia02/) , [Linkedin](https://www.linkedin.com/in/masia02/)
 
 [decentraland](https://play.decentraland.org/?position=-61,-101)
 
-**[3box](https://3box.io/0x4D859268820330cCBF721Dc263C3F516F4971B3B/wall)**
-
-**[Monappy](https://monappy.jp/u/masia02)**
-
-[onename](https://onename.com/masia02)
+**[3box](https://3box.io/0x4D859268820330cCBF721Dc263C3F516F4971B3B/wall) , [Monappy](https://monappy.jp/u/masia02) ,** [onename](https://onename.com/masia02)
 
 [Ameba](https://profile.ameba.jp/ameba/masia02)
