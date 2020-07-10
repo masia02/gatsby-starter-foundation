@@ -11,7 +11,7 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 
 [Cryptovoxels](https://www.cryptovoxels.com/play?coords=N@238W,12U,572N)
 
-![masia02.eth](/assets/aa_unsrzlvsf.jpg "masia02.eth")
+![masia02.eth](/assets/cryptovoxelsのコピー.png "masia02.eth")
 
 私が日々思うつぶやきもフォローしてくれる方は、
 
@@ -23,12 +23,10 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 
 気になったネタの先行メモ
 
-### [CipherWebサークル](https://note.com/masia02/circle)
-
-**[Appfav lab](https://discord.gg/y42Z8A)**
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://note.com/masia02/circle" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:assets.st-note.com/production/uploads/images/26925495/bb1fe45e8dbc0961ea8a14f3bb96f486.png?format=jpeg&amp;amp;height=1006&amp;amp;quality=45&amp;amp;width=1920" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">CipherWebサークル｜masia02.eth (CipherWeb)</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Web3.0 Spatial Web メタバース AI ブロックチェーン IoTなど先端技術がいつ一般に浸透するかわからないが、知っておくと良いことやお得情報など情報共有するサークル。</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 一般向け記事\
-**[note](https://note.com/masia02)** 
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://note.com/masia02" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:assets.st-note.com/production/uploads/images/28483292/b4a27ae0a2b1865c006ea49719a778e3.jpg" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">masia02.eth (CipherWeb)｜note</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Web全般を仕事に2015年Bitcoinデジタル資産に魅了され、実験思考でCipherWebLLCを起業http://Appfav.net運営 思想家。Web3 XR 3D AI 5G IOT など空間Webの情報収集 人柱https://lin.ee/C11BGoW</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 ビットコインLapps系記事\
 **[Spotlignt](https://spotlight.soy/mypage?user_id=122)**
@@ -40,16 +38,23 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 ここには気に入った記事をアーカイブすることが多いです。\
 気分でここだけに書く場合もあるけど…
 
-メルマガで読みたい方\
-[substack](https://cipherweb.substack.com/)
+
+
+**メルマガで読むブログ**
+
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://cipherweb.substack.com/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7fe1a9f-f253-415f-ba81-5f79be502dd9_399x399.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">𝒞𝒾𝓅𝒽𝑒𝓇𝒲𝑒𝒷’s Newsletter</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Sign up now so you don’t miss the first issue.</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
+
+
+
+**Crypto ART**
 
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://mintbase.io/my-market/0x4d38eea6619b4159498b31df9623000f2e6ef25e" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://capture.heartrails.com/100x100?https://mintbase.io/my-market/0x4d38eea6619b4159498b31df9623000f2e6ef25e" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">CipherWeb Arts</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Smart Contract NFT market</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
-[OpenSea](https://opensea.io/accounts/masia02eth)
+<iframe src='https://opensea.io/category/cipherweb-arts?embed=true&ref=0x414d872418d15f1386bc1ce57e5c39133efd1625' width='100%' height='100%' frameborder='0' allowfullscreen></iframe>
 
-[Creary](https://creary.net/@masia02/projects)
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://creary.net/@masia02/projects" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:ipfs.creary.net/ipfs/QmQuK3w9XKijFokNRo3kSLTPrdwehAFtLhvqHWPp5efumc" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Creary - masia02.eth (@masia02)</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">CipherWeb LLC</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
-[base](https://cipherweb.base.ec/)
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://cipherweb.base.ec/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:base-ec2if.akamaized.net/w=1200,h=1200,a=3,q=90,u=1,b=00000000/images/user/logo/bd1723e2a44d391b46705da9166a9601.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">cipherweb powered by BASE</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">オリジナルTシャツやグッズ販売。</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 ### [peakd](https://peakd.com/@masia02)
 
