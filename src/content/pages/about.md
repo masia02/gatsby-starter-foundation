@@ -26,6 +26,7 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://note.com/masia02/circle" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:assets.st-note.com/production/uploads/images/26925495/bb1fe45e8dbc0961ea8a14f3bb96f486.png?format=jpeg&amp;amp;height=1006&amp;amp;quality=45&amp;amp;width=1920" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">CipherWebサークル｜masia02.eth (CipherWeb)</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Web3.0 Spatial Web メタバース AI ブロックチェーン IoTなど先端技術がいつ一般に浸透するかわからないが、知っておくと良いことやお得情報など情報共有するサークル。</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 一般向け記事\
+
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://note.com/masia02" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:assets.st-note.com/production/uploads/images/28483292/b4a27ae0a2b1865c006ea49719a778e3.jpg" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">masia02.eth (CipherWeb)｜note</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Web全般を仕事に2015年Bitcoinデジタル資産に魅了され、実験思考でCipherWebLLCを起業http://Appfav.net運営 思想家。Web3 XR 3D AI 5G IOT など空間Webの情報収集 人柱https://lin.ee/C11BGoW</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 ビットコインLapps系記事\
@@ -38,13 +39,9 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 ここには気に入った記事をアーカイブすることが多いです。\
 気分でここだけに書く場合もあるけど…
 
-
-
 **メルマガで読むブログ**
 
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://cipherweb.substack.com/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7fe1a9f-f253-415f-ba81-5f79be502dd9_399x399.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">𝒞𝒾𝓅𝒽𝑒𝓇𝒲𝑒𝒷’s Newsletter</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Sign up now so you don’t miss the first issue.</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
-
-
 
 **Crypto ART**
 
@@ -62,6 +59,6 @@ Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思�
 
 [decentraland](https://play.decentraland.org/?position=-61,-101)
 
-**[3box](https://3box.io/0x4D859268820330cCBF721Dc263C3F516F4971B3B/wall) , [Monappy](https://monappy.jp/u/masia02) ,** [onename](https://onename.com/masia02)
+**[3box](https://3box.io/0x1138cdc8e85330c428562aa7849e252de63c089f/wall) , [Monappy](https://monappy.jp/u/masia02) ,** [onename](https://onename.com/masia02)
 
 [Ameba](https://profile.ameba.jp/ameba/masia02)
