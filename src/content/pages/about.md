@@ -3,7 +3,9 @@ template: about-page
 slug: /about
 title: About masia02.eth
 ---
-Web全般を仕事に2015年Bitcoin デジタル資産に魅了され実験思考で [CipherWebLLC](https://cipher-web.com) Founder [Appfav.net](https://appfav.net)運営 Spatial Web XR 3D Web3 Blockchain AI 5G IOT など情報収集 人柱 
+デジタル資産XRメタバース思想家でCryptoArtist志望
+
+Web全般を仕事に2014年頃Bitcoin デジタル資産に魅了され実験思考で [CipherWebLLC](https://cipher-web.com) Founder [Appfav.net](https://appfav.net)運営 Spatial Web XR 3D Web3 Blockchain AI 5G IOT など先端技術を好み情報収集 人柱 
 
 ## プロフィールページ
 
