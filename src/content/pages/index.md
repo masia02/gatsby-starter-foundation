@@ -19,7 +19,6 @@ Web3.0やSpatial Web(メタバース)についてキュレーションして書�
 <div class="shareon">\
     <a href="https://twitter.com/masia02" class="twitter"></a>
     <a href="https://www.facebook.com/masia02" class="facebook"></a>
-    <a href="https://www.instagram.com/masia02/" class="instagram"></a>
     <a href="https://www.linkedin.com/in/masia02/" class="linkedin"></a>
     <a href="https://www.pinterest.jp/masia02/" class="pinterest"></a>
     <a href="https://www.reddit.com/user/masia02" class="reddit"></a>
