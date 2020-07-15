@@ -11,7 +11,7 @@ Web全般を仕事に2014年頃Bitcoin デジタル資産に魅了され実験�
 
 <https://masia02.eth.link>
 
-[Cryptovoxels](https://www.cryptovoxels.com/play?coords=N@238W,12U,572N)
+[Cryptovoxels](https://www.cryptovoxels.com/play?coords=N@238W,12U,572N) / [Decentraland](https://play.decentraland.org/?position=-61,-101)
 
 ![masia02.eth](/assets/cryptovoxelsのコピー.png "masia02.eth")
 
@@ -72,8 +72,6 @@ Web全般を仕事に2014年頃Bitcoin デジタル資産に魅了され実験�
 ### [peakd](https://peakd.com/@masia02) , [Brain](https://brain-market.com/u/masia02)
 
 [Cent](https://beta.cent.co/@masia02) , [YouTube](https://www.youtube.com/user/masia02) , [Tiktok](https://www.tiktok.com/@masia02)
-
-[decentraland](https://play.decentraland.org/?position=-61,-101)
 
 **[3box](https://3box.io/0x1138cdc8e85330c428562aa7849e252de63c089f/wall) , [Monappy](https://monappy.jp/u/masia02) ,** [onename](https://onename.com/masia02)
 
