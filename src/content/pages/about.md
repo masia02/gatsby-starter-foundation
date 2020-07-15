@@ -13,6 +13,8 @@ Web全般を仕事に2014年頃Bitcoin デジタル資産に魅了され実験�
 
 [Cryptovoxels](https://www.cryptovoxels.com/play?coords=N@238W,12U,572N) / [Decentraland](https://play.decentraland.org/?position=-61,-101)
 
+![masia02's Gallery](/assets/cryptovoxelsのコピー.png "masia02's Gallery")
+
 私が日々思うつぶやきもフォローしてくれる方は、
 
 ### **[masia02 Twitterをフォローする](https://twitter.com/masia02)**
@@ -73,7 +75,3 @@ Web全般を仕事に2014年頃Bitcoin デジタル資産に魅了され実験�
 **[3box](https://3box.io/0x1138cdc8e85330c428562aa7849e252de63c089f/wall) , [Monappy](https://monappy.jp/u/masia02) ,** [onename](https://onename.com/masia02)
 
 [Ameba](https://profile.ameba.jp/ameba/masia02)
-
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-
-<div class="elfsight-app-cf59659b-6fbd-46fd-b3b0-b7b9b13d9a6e"></div>
