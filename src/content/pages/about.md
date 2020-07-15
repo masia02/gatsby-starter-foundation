@@ -65,13 +65,12 @@ Web全般を仕事に2014年頃Bitcoin デジタル資産に魅了され実験�
     <a href="https://www.linkedin.com/in/masia02/" class="linkedin"></a>
     <a href="https://www.pinterest.jp/masia02/" class="pinterest"></a>
     <a href="https://www.reddit.com/user/masia02" class="reddit"></a>
-    <a href="https://www.instagram.com/masia02/" class="telegram"></a>
     <a href="https://twitter.com/masia02" class="twitter"></a>
 </div>
 
 ### [peakd](https://peakd.com/@masia02) , [Brain](https://brain-market.com/u/masia02)
 
-[Cent](https://beta.cent.co/@masia02) , [YouTube](https://www.youtube.com/user/masia02) , [Tiktok](https://www.tiktok.com/@masia02)
+[Cent](https://beta.cent.co/@masia02) , [instagram](https://www.instagram.com/masia02/) , [YouTube](https://www.youtube.com/user/masia02) , [Tiktok](https://www.tiktok.com/@masia02)
 
 **[3box](https://3box.io/0x1138cdc8e85330c428562aa7849e252de63c089f/wall) , [Monappy](https://monappy.jp/u/masia02) ,** [onename](https://onename.com/masia02)
 
