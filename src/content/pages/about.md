@@ -75,14 +75,3 @@ Web全般を仕事に2014年頃Bitcoin デジタル資産に魅了され実験�
 **[3box](https://3box.io/0x1138cdc8e85330c428562aa7849e252de63c089f/wall) , [Monappy](https://monappy.jp/u/masia02) ,** [onename](https://onename.com/masia02)
 
 [Ameba](https://profile.ameba.jp/ameba/masia02)
-
-**Share**
-
-<div class="shareon">
-    <button class="reddit"></button>
-    <button class="telegram"></button>
-    <button class="twitter"></button>
-    <button class="viber"></button>
-    <button class="vkontakte"></button>
-    <button class="whatsapp"></button>
-</div>
