@@ -11,7 +11,7 @@ Web全般を仕事に2014年頃Bitcoin デジタル資産に魅了され実験�
 
 <https://masia02.eth.link>
 
-[Cryptovoxels](https://www.cryptovoxels.com/play?coords=N@238W,12U,572N) / [Decentraland](https://play.decentraland.org/?position=-61,-101)
+[Cryptovoxels](https://www.cryptovoxels.com/play?coords=N@608E,276S) / [Decentraland](https://play.decentraland.org/?position=-61,-101)
 
 ![masia02's Gallery](/assets/cryptovoxelsのコピー.png "masia02's Gallery")
 
