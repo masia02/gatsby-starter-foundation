@@ -62,15 +62,13 @@ Githubアカウントを選択します。
 
 ![](/assets/fleek-new-site3.png)
 
-追加の設定はいりません。
+追加の設定はいりません。「Deploy Site」ボタンでサイトを展開します。
 
 ![](/assets/fleek-new-site4.png)
 
-「Deploy Site」ボタンでサイトを展開します。
+◯◯◯.on.fleek.co にホストされます。
 
 ![](/assets/fleek-hosting5.png)
-
-◯◯◯.on.fleek.co にホストされます。
 
 例：<https://unity-webxr-export.on.fleek.co/>
 
