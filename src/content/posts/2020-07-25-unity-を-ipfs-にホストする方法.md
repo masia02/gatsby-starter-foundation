@@ -40,7 +40,7 @@ UnityからエクスポートしたファイルをGithubリポジトリに追加
 
 をフォークしてIPFSにアップしてみました。
 
-こちら**[Setting up a Unity project for WebXR](https://github.com/masia02/unity-webxr-export/blob/master/docs/project-setup.md)**を参考に後ほど個人的にいじってみたいと思います。
+こちら**[Setting up a Unity project for WebXR](https://github.com/MozillaReality/unity-webxr-export/blob/master/docs/project-setup.md)**を参考に後ほど個人的にいじってみたいと思います。
 
 ## Fleek
 
@@ -76,15 +76,11 @@ Githubアカウントを選択します。
 
 独自のカスタムドメインも設定できます。ブロックチェーンドメインも可能です。
 
-
-
 ## 終わりに
 
 これでUnityで制作したWeb3ゲームなどをホストできます。
 
 別途WebのSEOとしてOGPなども設定すると良いでしょう。
-
-
 
 ### 関連記事
 
