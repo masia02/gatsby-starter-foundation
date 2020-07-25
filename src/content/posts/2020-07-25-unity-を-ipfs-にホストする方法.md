@@ -14,8 +14,6 @@ Github：デプロイのためにゲームをGithubにアップロードしま�
 
 Fleek：FleekはGithubからコンテンツを取得し、IPFSに公開します。Githubへのアップデートは自動的に更新されます。
 
-
-
 # **Unity**
 
 [Unity](https://unity.com/)のセットアップは割愛します。
@@ -26,8 +24,6 @@ Fleek：FleekはGithubからコンテンツを取得し、IPFSに公開します
 
 プロジェクトをビルドして保存します。
 
-
-
 # **Github**
 
 [Github](https://github.com/)アカウントを作成し、リポジトリに移動して、\[新規]をクリックします。
@@ -36,7 +32,7 @@ Fleek：FleekはGithubからコンテンツを取得し、IPFSに公開します
 
 UnityからエクスポートしたファイルをGithubリポジトリに追加します。
 
-
+<br>
 
 私は試しにGithubにアップされている
 
@@ -45,8 +41,6 @@ UnityからエクスポートしたファイルをGithubリポジトリに追加
 をフォークしてIPFSにアップしてみました。
 
 こちら**[Setting up a Unity project for WebXR](https://github.com/masia02/unity-webxr-export/blob/master/docs/project-setup.md)**を参考に後ほど個人的にいじってみたいと思います。
-
-
 
 ## Fleek
 
@@ -82,15 +76,11 @@ Githubアカウントを選択します。
 
 独自のカスタムドメインも設定できます。ブロックチェーンドメインも可能です。
 
-
-
 ## 終わりに
 
 これでUnityで制作したWeb3ゲームなどをホストできます。
 
 別途WebのSEOとしてOGPなども設定すると良いでしょう。
-
-
 
 ### 関連記事
 
