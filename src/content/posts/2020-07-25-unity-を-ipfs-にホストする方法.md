@@ -4,6 +4,7 @@ title: Unity を IPFS にホストする方法
 slug: unity-on-ipfs
 date: 2020-07-25 15:58
 description: Unityで作成したゲームをWebGLでエクスポート。そのデータをGithubにアップロードしてFleekでIPFSにホスト
+featuredImage: /assets/unityonipfs.png
 ---
 ## 概要
 
