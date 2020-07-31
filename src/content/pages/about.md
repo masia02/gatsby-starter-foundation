@@ -13,7 +13,7 @@ Web全般を仕事に2014年頃Bitcoin デジタル資産に魅了され実験�
 
 [Cryptovoxels](https://www.cryptovoxels.com/play?coords=N@608E,276S) / [Decentraland](https://play.decentraland.org/?position=-61,-101)
 
-![masia02's Gallery](/assets/cryptovoxelsのコピー.png "masia02's Gallery")
+![masia02's Gallery](/assets/cryptovoxels.png "masia02's Gallery")
 
 私が日々思うつぶやきもフォローしてくれる方は、
 
@@ -51,11 +51,7 @@ Web全般を仕事に2014年頃Bitcoin デジタル資産に魅了され実験�
 
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://opensea.io/collection/cipherweb-arts" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:storage.googleapis.com/opensea-static/opensea-brand/opensea-meta.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">CipherWeb Arts Marketplace on OpenSea: Buy, sell, and explore digital assets</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;"></span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
-
-
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://app.rarible.com/masia02/" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:app.rarible.com/assets/android-chrome-384x384.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Rarible: NFT Marketplace</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Turn your products or services into publicly tradable items</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
-
-
 
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://creary.net/@masia02/projects" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:ipfs.creary.net/ipfs/QmQuK3w9XKijFokNRo3kSLTPrdwehAFtLhvqHWPp5efumc" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Creary - masia02.eth (@masia02)</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">CipherWeb LLC</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
