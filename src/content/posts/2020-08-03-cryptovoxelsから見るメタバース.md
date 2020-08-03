@@ -90,7 +90,7 @@ NFTはDecentralandなど他のメタバースでも掲載したり、ボクセ�
 
 ### ブロックチェーンを使用する他の仮想世界
 
-**Decentraland**はユーザーが所有する仮想世界でもあり、ブロックチェーンに仮想世界を配置するという考えを持った最初のプロジェクトでした。あつ森に似ていると言うとイメージしやすいでしょうか。ozila hubsのようにA-frameでWebVRを構築しています。しかし、デセントラランドは今はまだPCでのみログインできます。2017年8月、DecentralandはICOを通じて2,400万ドルを調達しました。CryptovoxelsはICOを行ったことはありませんが、開発者がさらに資金を必要とするときはいつでも、デジタル土地の区画を販売することで資金を調達しています。
+**Decentraland**はユーザーが所有する仮想世界でもあり、ブロックチェーンに仮想世界を配置するという考えを持った最初のプロジェクトでした。あつ森に似ていると言うとイメージしやすいでしょうか。[Mozila hubs](https://hubs.mozilla.com/)のように[A-frame](https://aframe.io/)でWebVRを構築しています。しかし、デセントラランドは今はまだPCでのみログインできます。2017年8月、DecentralandはICOを通じて2,400万ドルを調達しました。CryptovoxelsはICOを行ったことはありませんが、開発者がさらに資金を必要とするときはいつでも、デジタル土地の区画を販売することで資金を調達しています。
 
 土地区画トークンに機能を追加できますし、トークンホルダーがプロパティを貸し出すことを許可したり、追加のトークンホルダーメリットを作成することで、土地区画トークンの価値を高めることができるでしょう。
 
@@ -143,4 +143,5 @@ VRはあらゆるものを飲み込みます。現在安い1区画が1.5eth(約5
 [CipherWeb Line公式アカウントをフォローする](https://line.me/R/ti/p/%40zkz7445k)
 
 気になったネタの先行メモ
+
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://note.com/masia02/circle" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:assets.st-note.com/production/uploads/images/26925495/bb1fe45e8dbc0961ea8a14f3bb96f486.png?format=jpeg&amp;amp;height=1006&amp;amp;quality=45&amp;amp;width=1920" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">CipherWebサークル｜masia02.eth (CipherWeb)</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Web3.0 Spatial Web メタバース AI ブロックチェーン IoTなど先端技術がいつ一般に浸透するかわからないが、知っておくと良いことやお得情報など情報共有するサークル。</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
