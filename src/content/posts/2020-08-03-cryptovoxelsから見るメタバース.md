@@ -98,7 +98,7 @@ NFTはDecentralandなど他のメタバースでも掲載したり、ボクセ�
 
 ![Decentraland My LAND](/assets/decentraland.png "Decentraland My LAND")
 
-[My LAND](https://play.decentraland.org/?position=-62,-100)色々置いて試しています
+**[My LAND](https://play.decentraland.org/?position=-62,-100)**に色々置いて試しています。
 
 アプリベースでも高クオリティで使いやすいものに人気が出る可能性は否めません。
 
