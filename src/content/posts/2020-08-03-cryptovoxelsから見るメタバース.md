@@ -76,7 +76,9 @@ Eコマースは旧式で、NFTコマースはデジタルコマースの未来�
 
 NFTをクリックするとOpenSeaでの詳細ページを表示します。販売している場合は購入可能です。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">販売するボクセルNFTを試しに作成してみたけど手数料高いなー…<a href="https://t.co/WVzIdlUVDU">https://t.co/WVzIdlUVDU</a><a href="https://twitter.com/hashtag/cryptoart?src=hash&amp;ref_src=twsrc%5Etfw">#cryptoart</a> <a href="https://twitter.com/hashtag/NFT?src=hash&amp;ref_src=twsrc%5Etfw">#NFT</a></p>&mdash; 𝓶𝓪𝓼𝓲𝓪02.eth (@masia02) <a href="https://twitter.com/masia02/status/1287766292892590087?ref_src=twsrc%5Etfw">July 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+販売するボクセルNFTを試しに作成してみたけど今ガスの手数料高いなー…
+
+<div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://app.rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:4123:0x1138cdc8e85330c428562aa7849e252de63c089f" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:lh3.googleusercontent.com/F3SL2pVA7lRcEIzLDBOXE_qQbVBNMfEUXuIqtKZZepI8IzM1Io1fEZmylsyna6BLDUJuAQA4fT_wj_W7NZhwWFo" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;"> Squirrel</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">The voxel will be available for download through an IPFS link after purchase.</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 ### 真の所有権
 
@@ -102,7 +104,7 @@ NFTはDecentralandなど他のメタバースでも掲載したり、ボクセ�
 
 **Somnium Space**は、アプリベースですがクオリティの高い建物を簡単に作れるようで土地を買って試したいところですが、好きな場所にすぐアクセスできない仕様で、自分の家を建てたとしても見に来てもらえるのは、そこそこのスペックのPCを持っている人が来てくれるのも待つしかないと思うと土地購入を躊躇してしまっています。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Somnium Space VR散歩<br>アプリベースなのでクオリティーが高くて色々建物できてて、空島に登れるのかわからなかったが、水に入れてびっくり！レバー移動でずっとプラプラしててあきない！けど離れた目的地に行きたい時は大変ね。<br>しかしログインに読み込みが長かったりもきつかったけど… <a href="https://t.co/D73QzeeNgC">pic.twitter.com/D73QzeeNgC</a></p>&mdash; 𝓶𝓪𝓼𝓲𝓪02.eth (@masia02) <a href="https://twitter.com/masia02/status/1280673974448357376?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Somnium Space VR散歩<br>アプリベースなのでクオリティーが高くて色々建物できてて、空島に登れるのかわからなかったが、水に入れてびっくり！レバー移動でずっとプラプラしててあきない！けど離れた目的地に行きたい時は大変ね。<br>しかしログインに読み込みが長かったりもきつかったけど… <a href="https://t.co/D73QzeeNgC">pic.twitter.com/D73QzeeNgC</a></p>&mdash; 𝓶𝓪𝓼𝓲𝓪02.eth (@masia02) <a href="https://twitter.com/masia02/status/1280673974448357376?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
 
 **[The Sandbox](https://www.sandbox.game/login/?r=aKtJ6aX46mN7MMM6LOMkC)**は、アタリやスクエニがパートナーになっており期待できるのではないでしょうか。
 
