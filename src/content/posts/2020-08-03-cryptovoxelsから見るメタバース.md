@@ -94,11 +94,13 @@ NFTはDecentralandなど他のメタバースでも掲載したり、ボクセ�
 
 土地区画トークンに機能を追加できますし、トークンホルダーがプロパティを貸し出すことを許可したり、追加のトークンホルダーメリットを作成することで、土地区画トークンの価値を高めることができるでしょう。
 
-個人的にはWebベースが非中央集権的に思いますし、Decentralandは当初から土地を購入しておりいろいろ置いて試しています。
+個人的にはWebベースが非中央集権的に思いますし、ボクセルより[](https://aframe.io/)[A-frame](https://aframe.io/)の方が正直好みでDecentralandは当初から土地を購入しており期待しています。いろいろ置いて試してみています。
 
 ![Decentraland My LAND](/assets/decentraland.png "Decentraland My LAND")
 
 [My LAND](https://play.decentraland.org/?position=-62,-100)
+
+
 
 アプリベースでも高クオリティで使いやすいものに人気が出る可能性は否めません。
 
