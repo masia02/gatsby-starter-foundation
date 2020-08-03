@@ -104,7 +104,7 @@ NFTはDecentralandなど他のメタバースでも掲載したり、ボクセ�
 
 **Somnium Space**は、アプリベースですがクオリティの高い建物を簡単に作れるようで土地を買って試したいところですが、好きな場所にすぐアクセスできない仕様で、自分の家を建てたとしても見に来てもらえるのは、そこそこのスペックのPCを持っている人が来てくれるのも待つしかないと思うと土地購入を躊躇してしまっています。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Somnium Space VR散歩<br>アプリベースなのでクオリティーが高くて色々建物できてて、空島に登れるのかわからなかったが、水に入れてびっくり！レバー移動でずっとプラプラしててあきない！けど離れた目的地に行きたい時は大変ね。<br>しかしログインに読み込みが長かったりもきつかったけど… <a href="https://t.co/D73QzeeNgC">動画</a></p>&mdash; 𝓶𝓪𝓼𝓲𝓪02.eth (@masia02) <a href="https://twitter.com/masia02/status/1280673974448357376?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Somnium Space VR散歩<br>アプリベースなのでクオリティーが高くて色々建物できてて、空島に登れるのかわからなかったが、水に入れてびっくり！レバー移動でずっとプラプラしててあきない！けど離れた目的地に行きたい時は大変ね。<br>しかしログインに読み込みが長かったりもきつかったけど… <a href="https://t.co/D73QzeeNgC">動画リンク</a></p>&mdash; 𝓶𝓪𝓼𝓲𝓪02.eth (@masia02) <a href="https://twitter.com/masia02/status/1280673974448357376?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **[The Sandbox](https://www.sandbox.game/login/?r=aKtJ6aX46mN7MMM6LOMkC)**は、アタリやスクエニがパートナーになっており期待できるのではないでしょうか。
 
