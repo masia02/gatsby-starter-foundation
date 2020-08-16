@@ -9,7 +9,7 @@ cta:
   ctaLink: /about
 ---
 **I am [masia02.eth](https://masia02.eth.link/)**, Masamichi Takano, [CipherWeb LLC](https://www.cipher-web.com/) Founder\
-D-Web (Web3)+メタバース(仮想世界)についてキュレーションして書いてる思想家。
+D-Web (Web3.0)+メタバース(仮想世界)についてキュレーションして書いてる思想家。
 
 <link href="https://cdn.jsdelivr.net/npm/shareon@1.2.1/dist/shareon.min.css"
       rel="stylesheet">
