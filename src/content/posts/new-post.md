@@ -8,7 +8,21 @@ featuredImage: /assets/rectangle_large_type_2_4cf225bec491fae50f1a530ec63399ed.w
 ---
 # Web3.0 DAppsとは
 
-「dApps」はDecentralized Applicationsの略で、分散型アプリケーションのことです。最近では**ブロックチェーンアプリ**と呼ばれることが多いようです。またそのブロックチェーン技術を利用したdappsゲームは、**ブロックチェーンゲーム**と呼ばれることが多くなりました。
+「dApps」はDecentralized Applicationsの略で、分散型アプリケーションのことです。
+
+> #### dapp(分散型アプリケーション)とは
+>
+> ①アプリケーションは、オープンソースであること。オペレーションは自動であり、中央のコントロール主体を持たないこと。トークン、データ、レコード、などにつき、暗号化されて分散化されたブロックチェーンを利用していること。\
+> \
+> ②アプリケーションは、オープンに流通可能な、暗号トークンを持っていること。アプリケーションの利用に際してトークンを利用すること。参加者には、そのトークンによってリワード（報酬）が支払われること。\
+> \
+> ③アプリケーションはマーケットやユーザーからの改善要求によりプロトコルを改善していくこと。この改善は、ユーザーのコンセンサスによること。
+>
+> 出展 : [doublehash.me](http://doublehash.me/what-is-dapps/)
+
+最近ではブロックチェーン技術の一部を利用したアプリは**ブロックチェーンアプリ**。またそのブロックチェーン技術を利用したゲームは、**ブロックチェーンゲーム（BCG）**と呼ばれることが多いようです。
+
+
 
 ### イーサリアムのDAppsを使ってみよう！
 
@@ -84,8 +98,6 @@ DAppsブラウザでDAppsのURLにアクセスして利用開始できます。
 
 * [Firefoxブラウザ](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=ja)
 * [MetaMask Firefox向けアドオン](https://addons.mozilla.org/ja/firefox/addon/ether-metamask/)
-
-
 
 私が日々思うつぶやきもフォローしてくれる方は、\
 ***[masia02 Twitterをフォローする](https://twitter.com/masia02)***
