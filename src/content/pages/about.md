@@ -5,7 +5,9 @@ title: About masia02.eth
 ---
 デジタル資産XRメタバース思想家でCryptoArtist志望
 
-Web全般を仕事にBitcoin デジタル資産に魅了され実験思考で [CipherWebLLC](https://cipher-web.com) Founder [Appfav.net](https://appfav.net)運営 Spatial Web XR D-Web(Web3) Blockchain AI 5G IOT など先端技術を好み情報収集 人柱
+Web全般を仕事にBitcoin デジタル資産に魅了され実験思考で [CipherWebLLC](https://cipher-web.com) Founder [Appfav.net](https://appfav.net)運営 Spatial Web XR D-Web(Web3) Blockchain AI 5G IOT など先端技術を好み情報収集 人柱 
+
+ここのブログを充実させてそれをベースに本を作りたい。
 
 ## プロフィールページ
 
