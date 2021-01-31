@@ -39,7 +39,7 @@ Web全般を仕事にBitcoin デジタル資産に魅了され実験思考で [C
 
 <https://masia02.hns.to>
 
-**dWebXR**
+#### **dWebXR**
 
 [Decentraland](https://play.decentraland.org/?position=-61,-101)
 
@@ -53,7 +53,7 @@ Web全般を仕事にBitcoin デジタル資産に魅了され実験思考で [C
 
 ![masia02's Gallery](/assets/cryptovoxels.png "masia02's Gallery")
 
-**Crypto ART（NFTs）**
+#### **Crypto ART（NFTs）**
 
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://opensea.io/collection/cipherweb-arts" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:storage.googleapis.com/opensea-static/opensea-brand/opensea-meta.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">CipherWeb Arts Marketplace on OpenSea: Buy, sell, and explore digital assets</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;"></span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
@@ -66,6 +66,8 @@ Web全般を仕事にBitcoin デジタル資産に魅了され実験思考で [C
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://zilliqa.mintable.app/profile/stores/2f112763-10a5-4dec-95ad-ee876e036802" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://capture.heartrails.com/100x100?https://zilliqa.mintable.app/profile/stores/2f112763-10a5-4dec-95ad-ee876e036802" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">Mintable.app</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">zilliqa.mintable.app - The best marketplace for artists and sellers. Private, unlimited, files on the Zilliqa blockchain</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://shop.cipher-web.com" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:base-ec2if.akamaized.net/w=1200,h=1200,a=3,q=90,u=1,b=00000000/images/user/logo/bd1723e2a44d391b46705da9166a9601.png" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">cipherweb powered by BASE</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">3Dモデルダウンロード販売やオリジナルTシャツなどのグッズ販売。</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
+
+
 
 私が日々思うつぶやきもフォローしてくれる方は、
 
