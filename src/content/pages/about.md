@@ -88,10 +88,10 @@ Web全般を仕事にBitcoin デジタル資産に魅了され実験思考で [C
     <a href="https://twitter.com/masia02" class="twitter"></a>
 </div>
 
-### [peakd](https://peakd.com/@masia02) , [Brain](https://brain-market.com/u/masia02)
+[Skyfeed](https://skyfeed.hns.siasky.net/#/user/7c39e474ef231fb04d749bbbdf03c382fafc66e54c0221d7cb57dee1e85018cf) , [Cent](https://beta.cent.co/@masia02) , **[3box](https://3box.io/0x1138cdc8e85330c428562aa7849e252de63c089f/wall) , [Monappy](https://monappy.jp/u/masia02)**
 
-[Cent](https://beta.cent.co/@masia02) , [instagram](https://www.instagram.com/masia02/) , [YouTube](https://www.youtube.com/user/masia02) , [Tiktok](https://www.tiktok.com/@masia02)
+### [peakd](https://peakd.com/@masia02)
 
-**[3box](https://3box.io/0x1138cdc8e85330c428562aa7849e252de63c089f/wall) , [Monappy](https://monappy.jp/u/masia02)**
+[instagram](https://www.instagram.com/masia02/) , [YouTube](https://www.youtube.com/user/masia02) , [Tiktok](https://www.tiktok.com/@masia02)
 
-[Ameba](https://profile.ameba.jp/ameba/masia02)
+[Ameba](https://profile.ameba.jp/ameba/masia02) , [Brain](https://brain-market.com/u/masia02)
