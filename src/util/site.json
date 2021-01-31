@@ -2,9 +2,9 @@
   "meta": {
     "title": "dApps Play",
     "titleTemplate": "%s",
-    "description": "Web3、デジタル資産、ブロックチェーンゲーム・アプリ、dApps、XR、メタバースなどの情報をキュレーションして書いてる思想家の戯言ブログ",
+    "description": "OSS・EtoEEであり、#WebXR のようなオープンスタンダードと分散型インフラストラクチャを組み合わせて、アプリや仮想オブジェクトをユーザーが所有できるようにするプラットフォームや関連プロトコルなどの情報をキュレーションして書いてる思想家の戯言記事のアーカイブ",
     "siteUrl": "https://dapps-play.net",
-    "image": "/assets/nemneko.png",
+    "image": "/assets/山20210127.png",
     "twitterUsername": "@masia02"
   },
   "ga": "UA-10252075-11"
