@@ -79,8 +79,6 @@ Webaverseに直接簡単に取り込むことができます。\
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">New feature: Wanna share a pic with a friend? Drag n&#39; drop into the app window to spawn in the world. Simple as. <a href="https://t.co/vdXJuvSTFI">pic.twitter.com/vdXJuvSTFI</a></p>&mdash; Webaverse (@webaverse) <a href="https://twitter.com/webaverse/status/1354326601576685574?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-
-
+※ツイートの埋め込みがうまくいかないので、続きは下記リンクで
 
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://note.com/masia02/n/nf8c961bfaff7" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:assets.st-note.com/production/uploads/images/44862549/rectangle_large_type_2_04c614220d0dbea0131e2ce7bd58c62e.png?fit=bounds&amp;quality=85&amp;width=1280" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">WebaverseからみるdWebXR｜masia02.eth (CipherWeb,LLC.)｜note</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;"> 日本のVR界隈はVRChatが流行っているようだが、もしVRChatが某FBに買収されて仕様が大きく変更されたり、サーバーがダウンしたらどうだろう。 Mozilla hubsでワールド作ってAWSで運営してたとしても、AWSが停止するかもしれない。GAFAなどの大企業でも１社で運営している会社で、サーバーが一時停止する不具合など最近よくありますし、裏で何をしているか信頼できないニュースも多くなってきています。  プライバシーを守る  オープンソース 信頼性は、それなりの期間に多くの人に使い倒され、ハッカーに狙われ耐え抜いたか。  エンドツーエンド暗号化 利用者のみが鍵を持つことで、情</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
