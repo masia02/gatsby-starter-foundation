@@ -24,7 +24,7 @@ Web全般を仕事にBitcoin デジタル資産に魅了され実験思考で [C
 <div class="blogcardfu" style="width:auto;max-width:9999px;border:1px solid #E0E0E0;border-radius:3px;margin:10px 0;padding:15px;line-height:1.4;text-align:left;background:#FFFFFF;"><a href="https://note.com/masia02" target="_blank" style="display:block;text-decoration:none;"><span class="blogcardfu-image" style="float:right;width:100px;padding:0 0 0 10px;margin:0 0 5px 5px;"><img src="https://images.weserv.nl/?w=100&url=ssl:assets.st-note.com/production/uploads/images/28483292/b4a27ae0a2b1865c006ea49719a778e3.jpg" width="100" style="width:100%;height:auto;max-height:100px;min-width:0;border:0 none;margin:0;"></span><br style="display:none"><span class="blogcardfu-title" style="font-size:112.5%;font-weight:700;color:#333333;margin:0 0 5px 0;">masia02.eth (CipherWeb)｜note</span><br><span class="blogcardfu-content" style="font-size:87.5%;font-weight:400;color:#666666;">Web全般を仕事に2015年Bitcoinデジタル資産に魅了され、実験思考でCipherWebLLCを起業http://Appfav.net運営 思想家。Web3 XR 3D AI 5G IOT など空間Webの情報収集 人柱https://lin.ee/C11BGoW</span><br><span style="clear:both;display:block;overflow:hidden;height:0;">&nbsp;</span></a></div>
 
 **ビットコインLapps系記事**\
-**[Spotlignt](https://spotlight.soy/mypage?user_id=122)**
+**[Spotlignt](https://spotlight.soy/masia02)**
 
 **イーサリアムdapps系記事**\
 **[Alis](https://alis.to/users/masia02)**
@@ -43,7 +43,7 @@ Web全般を仕事にBitcoin デジタル資産に魅了され実験思考で [C
 
 [Decentraland](https://play.decentraland.org/?position=-61,-101)
 
-![Decentraland](/assets/rectangle_large_type_2_1a6c39a0774acc91b7f527f8ea07f515.webp "Decentraland")
+![Decentraland](/assets/decentraland_bat.png "Decentraland")
 
 [Webaverse](https://webaverse.com/accounts/0xa1fa2aa246e760a957da20d7e8e055ee24e1a188)
 
