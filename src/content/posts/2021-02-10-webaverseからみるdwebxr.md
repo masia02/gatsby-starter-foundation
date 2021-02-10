@@ -4,7 +4,7 @@ title: WebaverseからみるdWebXR
 slug: dWebXR
 date: 2021-02-10 23:12
 description: OSS・EtoEEであり、WebXRのようなオープンスタンダードと分散型インフラストラクチャを組み合わせて、アプリや仮想オブジェクトをユーザーが所有できるようにするプラットフォーム
-featuredImage: /assets/rectangle_large_type_2_04c614220d0dbea0131e2ce7bd58c62e_1.png
+featuredImage: /assets/1100x220.png
 ---
 日本のVR界隈はVRChatが流行っているようだが、もしVRChatが某FBに買収されて仕様が大きく変更されたり、サーバーがダウンしたらどうだろう。\
 Mozilla hubsでワールド作ってAWSで運営してたとしても、AWSが停止するかもしれない。GAFAなどの大企業でも１社で運営している会社で、サーバーが一時停止する不具合など最近よくありますし、裏で何をしているか信頼できないニュースも多くなってきています。
