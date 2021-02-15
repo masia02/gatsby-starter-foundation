@@ -90,8 +90,7 @@ Web全般を仕事にBitcoin デジタル資産に魅了され実験思考で [C
 
 <iframe src="https://discord.com/widget?id=411755048729575424&theme=dark" width="100%" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>\
-<div class="elfsight-app-cf59659b-6fbd-46fd-b3b0-b7b9b13d9a6e"></div>
+<script src="https://apps.elfsight.com/p/platform.js" defer></script><div class="elfsight-app-cf59659b-6fbd-46fd-b3b0-b7b9b13d9a6e"></div>
 
 [Skyfeed](https://skyfeed.hns.siasky.net/#/user/7c39e474ef231fb04d749bbbdf03c382fafc66e54c0221d7cb57dee1e85018cf) , [Cent](https://beta.cent.co/@masia02) , **[3box](https://3box.io/0x1138cdc8e85330c428562aa7849e252de63c089f/wall) , [Monappy](https://monappy.jp/u/masia02)**
 
